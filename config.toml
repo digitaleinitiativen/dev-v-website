@@ -1,3 +1,10 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "http://devv.digitaleinitiativen.at/"
+languageCode = "de-de"
+title = "devv"
+description = "hackathon meets designzeugs"
+blogdir = "blog"
+pluralizeListTitles = false
+
+---
+menu: "main"
+---
