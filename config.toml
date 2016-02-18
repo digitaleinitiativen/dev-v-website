@@ -1,8 +1,8 @@
-baseurl = "http://www.yourdomain.com/"
-languageCode = "en-us"
-title = "Icarus"
+baseurl = "http://devv.digitaleinitiativen.at"
+languageCode = "de-de"
+title = "devv"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "spf13"
+disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 # Define the number of posts per page
@@ -17,9 +17,9 @@ theme = "hugo-icarus-theme"
 
 [params]
     # Tell me who you are
-    author = "John Doe"
-    bio = "Blogger - Programmer - Gopher"
-    location = "Earth"
+    author = "Digitale Initiativen"
+    bio = "Plattform für Digitale Initiativen"
+    #location = "Earth"
     site_description = ""
     copyright  = "Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice)."
     avatar = "css/images/avatar.png"
@@ -43,18 +43,16 @@ theme = "hugo-icarus-theme"
     label  = "Blog"
     link   = "post/"
 
-
-
 # Enter a link for the follow button on the left
 [params.profile]
-    follow_button = "https://github.com/digitalcraftsman"
+    follow_button = "https://github.com/digitaleinitiativen"
 
 
 [social]
 # Add your social network accounts to the profile section on the left
 # by entering your username. The links to your account will be
 # create automatically.
-    github          = "digitalcraftsman"
+    github          = "digitaleinitiativen"
     bitbucket       = ""
     jsfiddle        = ""
     codepen         = ""
@@ -80,7 +78,7 @@ theme = "hugo-icarus-theme"
     facebook        = ""
     facebook_admin  = ""
     twitter_domain  = ""
-    twitter         = "spf13"
+    twitter         = "DigitalInit"
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
