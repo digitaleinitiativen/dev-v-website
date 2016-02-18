@@ -40,12 +40,27 @@ theme = "hugo-icarus-theme"
 
 [[params.menu]]
     before = false
+    label  = "Ummahüsla"
+    link   = "ummahuesla/"
+
+[[params.menu]]
+    before = false
+    label  = "Veranstaltungen"
+    link   = "veranstaltungen/"
+
+[[params.menu]]
+    before = false
+    label  = "Über uns"
+    link   = "ueber/"
+
+[[params.menu]]
+    before = false
     label  = "Blog"
     link   = "post/"
 
 # Enter a link for the follow button on the left
 [params.profile]
-    follow_button = "https://github.com/digitaleinitiativen"
+    follow_button = "https://twitter.com/DigitalInit"
 
 
 [social]
