@@ -1,4 +1,4 @@
-baseurl = "http://devv.digitaleinitiativen.at"
+baseurl = "http://devv.digitaleinitiativen.at/"
 languageCode = "de-de"
 title = "devv"
 # Enable comments by entering your Disqus shortname
