@@ -1,0 +1,21 @@
+<header class="row m-t-2 m-b-2">
+  <div class="col-sm-12">
+    <nav class="nav">
+      {{ range .Site.Params.menu }}
+      {{ if .before }}
+      <a class="main-nav-link" href="{{ .link | absURL }}">{{ .label }}</a>
+      {{ end }}
+      {{ end }}
+
+      {{ range .Site.Menus.main }}
+      <a class="main-nav-link" href="{{ .URL }}">{{ .Name }}</a>
+      {{ end }}
+
+      {{ range .Site.Params.menu }}
+      {{ if not .before }}
+      <a class="main-nav-link" href="{{ .link | absURL }}">{{ .label }}</a>
+      {{ end }}
+      {{ end }}
+    </nav>
+  </div>
+</header>

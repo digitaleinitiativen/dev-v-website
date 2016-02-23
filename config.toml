@@ -1,6 +1,6 @@
-baseurl = "http://devv.digitaleinitiativen.at/"
+baseurl = "http://uh.digitaleinitiativen.at/"
 languageCode = "de-de"
-title = "devv"
+title = "\"UMMA HÜSLA\" Hackathon extended"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
@@ -8,11 +8,11 @@ googleAnalytics = ""
 # Define the number of posts per page
 paginate = 10
 footnotereturnlinkcontents = "↩"
-theme = "hugo-icarus-theme"
+theme = "uh"
 
 
 [permalinks]
-    post = "/:year/:month/:day/:slug"
+    post = "/:slug"
 
 
 [params]
@@ -21,11 +21,11 @@ theme = "hugo-icarus-theme"
     bio = "Plattform für Digitale Initiativen"
     #location = "Earth"
     site_description = ""
-    copyright  = "Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice)."
+    copyright  = "Plattform für Digitale Initiativen"
     avatar = "css/images/avatar.png"
 
     # Format dates with Go's time formatting
-    date_format = "2006-01-02"
+    date_format = "02. 01. 2016"
 
 # Create custom menu entries by defining a label and a link for
 # them. Since you can also link posts, you've the option the
@@ -36,7 +36,7 @@ theme = "hugo-icarus-theme"
 [[params.menu]]
     before = true
     label  = "Home"
-    link   = "/"
+    link   = "home/"
 
 [[params.menu]]
     before = false
