@@ -1,19 +1,30 @@
-<header class="row m-t-2 m-b-2">
+<div class="row m-t-2 m-b-1">
   <div class="col-sm-12">
-    <nav class="nav">
+    <img class="img-fluid" src="/img/header-lady.jpg" />
+  </div>
+</div>
+<header class="row m-b-2">
+  <div class="col-sm-2">
+    <a href="/"><img class="img-fluid" src="//placehold.it/200x100?text=UH" /></a>
+  </div>
+  <div class="col-sm-2">
+    <a href="http://www.zumtobel.com"><img class="img-fluid" src="//placehold.it/200x100?text=Zumtobel" /></a>
+  </div>
+  <div class="col-sm-8">
+    <nav class="nav nav-inline">
       {{ range .Site.Params.menu }}
       {{ if .before }}
-      <a class="main-nav-link" href="{{ .link | absURL }}">{{ .label }}</a>
+      <a class="nav-link" href="{{ .link | absURL }}">{{ .label }}</a>
       {{ end }}
       {{ end }}
 
       {{ range .Site.Menus.main }}
-      <a class="main-nav-link" href="{{ .URL }}">{{ .Name }}</a>
+      <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
       {{ end }}
 
       {{ range .Site.Params.menu }}
       {{ if not .before }}
-      <a class="main-nav-link" href="{{ .link | absURL }}">{{ .label }}</a>
+      <a class="nav-link" href="{{ .link | absURL }}">{{ .label }}</a>
       {{ end }}
       {{ end }}
     </nav>

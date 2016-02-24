@@ -1,10 +1,9 @@
 {{ partial "head" . }}
 <div class="container">
     {{ partial "header" . }}
-    {{ $paginator := .Paginate .Data.Pages }}
-    {{ range $paginator.Pages }}
-        {{ .Render "summary" }} 
+    {{ range where .Data.Pages "Title" "home" }}
+        {{ .Content }}
     {{ end }}
     {{ partial "footer" . }}
-</div>
+    </div>
 {{ partial "foot" . }}
