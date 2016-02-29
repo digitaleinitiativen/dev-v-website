@@ -1,0 +1,38 @@
+
+{{ if .Site.Params.widgets.logo_sidebar }}
+
+<div class="row">
+	{{ range .Site.Data.members.member }}
+
+	<div class="col-sm-2">
+		<div class="card">
+			<img class="card-image-top img-fluid" src="{{ .logo }}" />
+			<div class="card-block">
+				<h4 class="card-title">{{ .name }}</h4>
+			</div>
+		</div>
+	</div>
+
+	{{ end }}
+
+</div>
+
+
+<h2>Partner</h2>
+
+<div class="row">
+	{{ range .Site.Data.partner.partner }}
+	<div class="col-sm-4">
+		<div class="card">
+			<img class="card-image-top img-fluid" src="{{ .logo }}" />
+			<div class="card-block">
+				<h4 class="card-title">{{ .name }}</h4>
+			</div>
+		</div>
+	</div>
+
+	{{ end }}
+
+</div>
+
+{{ end }}
