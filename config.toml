@@ -1,6 +1,6 @@
 baseurl = "http://uh.digitaleinitiativen.at/"
 languageCode = "de-de"
-title = "\"UMMA HÜSLA\" Hackathon extended"
+title = "Umma hüsla EXTENDED Hackathon"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
@@ -29,7 +29,7 @@ theme = "uh"
 
 [[params.menu]]
     before = false
-    label  = "UMMA HÜSLA"
+    label  = "Umma hüsla"
     link   = "ummahuesla/"
 
 [[params.menu]]
