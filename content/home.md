@@ -10,7 +10,7 @@ title = "home"
 
 +++
 
-# 2. Umma hüsla EXTENDED Hackathon
+# 2. Umma hüsla Hackathon EXTENDED
 
 <div class="row m-h-1 m-b-1">
 	<div class="col-sm-2">
