@@ -1,0 +1,76 @@
+body {
+	font-family: Avenir, "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+a {
+	color: #666;
+}
+a:focus, a:hover {
+	color: #999;
+}
+.nav a {
+	text-transform: uppercase;
+}
+
+.yellow {
+	color: #ffdd00;
+}
+.yellow-bg {
+	background-color: #ffdd00;
+}
+
+.header-image {
+	height: 300px;
+	background-image: url(/img/header.jpg);
+	background-size: cover;
+	position: relative;
+}
+.header-image .title {
+	background-color: white;
+	text-transform: uppercase;
+	position: absolute;
+	top: 4.5rem;
+	left: 12rem;
+}
+.header-image .logo {
+	position: absolute;
+	top: -2rem;
+	left: 4rem;
+	-ms-transform: rotate(-25deg); /* IE 9 */
+    -webkit-transform: rotate(-25deg); /* Chrome, Safari, Opera */
+    transform: rotate(-25deg);
+}
+
+footer a:hover {
+	text-decoration: none;
+}
+
+.event-info {
+	background-color: #ffdd00;
+	display: none;
+}
+.event-info.active {
+	display: block;
+}
+.event-info h1 {
+	text-transform: uppercase;
+}
+.event-dates > div > div {
+	padding-top: 2rem;
+	font-size: 2rem;
+	text-align: center;
+	position: relative;
+	cursor: pointer;
+}
+.event-dates > div.active > div:after {
+	top: 0%;
+	left: 50%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+	border-top-color: #ffdd00;
+	border-width: 2rem;
+	margin-left: -2rem;
+}

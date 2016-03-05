@@ -1,7 +1,36 @@
-<div class="row m-t-2 m-b-1">
+<div class="row">
   <div class="col-sm-12">
-    <img class="img-fluid" src="/img/header-lady.jpg" />
+     <nav class="nav nav-inline text-xs-right p-y-1">
+      {{/*
+      {{ range .Site.Params.menu }}
+      {{ if .before }}
+      <a class="nav-link" href="{{ .link | absURL }}">{{ .label }}</a>
+      {{ end }}
+      {{ end }}
+
+      {{ range .Site.Menus.main }}
+      <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
+      {{ end }}
+
+      {{ range .Site.Params.menu }}
+      {{ if not .before }}
+      <a class="nav-link" href="{{ .link | absURL }}">{{ .label }}</a>
+      {{ end }}
+      {{ end }}
+      */}}&nbsp;
+    </nav> 
   </div>
 </div>
-<header class="row m-b-2">
+<header class="row">
+  <div class="col-sm-12 header-image">
+		<a href="http://uh.digitaleinitiativen.at" class="logo">
+			<img src="/img/uh-logo.png" />
+		</a>
+	    <div class="title p-a-2">
+	    	<h1>
+	    		<strong>Umma hüsla</strong><br/>
+	    		Hackathon <strong class="yellow">Extended</strong>
+	    	</h1>
+	    </div>
+  </div>
 </header>
