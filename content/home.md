@@ -10,8 +10,11 @@ title = "home"
 
 +++
 
+<small>
+	<a href="https://docs.google.com/forms/d/1fHFZq0xMxaysTaisRNxZiyUV6mY7rCAv2DbH6k1WIEM/viewform" target="new">Shortcut zur Anmeldung zum Hackathon</a>
+</small>
 
-<h1><span class="black-white">&ldquo;Conneting EveryTHING&rdquo;</span></h1>
+<h1><span class="black-white">&ldquo;Connecting EveryTHING&rdquo;</span></h1>
 
 Die Plattform für Digitale Initiativen lädt zum zweiten Umma hüsla Hackathon. Dieses Mal noch stärker noch frischer noch schöner. Extended. 
 

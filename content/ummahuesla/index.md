@@ -16,7 +16,7 @@ Die fachlichen Hintergründe und technologischen Spezialisierungen unserer Teiln
 <div class="card card-block infobox">
 	<h4 class="card-title">Mach mit!</h4>
 	<p class="card-text">Melde Dich und Dein Team jetzt zum 2. Umma hüsla Hackathon an</p>
-	<a href="https://goo.gl/PD7jnY" class="btn btn-primary">Anmelden</a>
+	<a href="https://docs.google.com/forms/d/1fHFZq0xMxaysTaisRNxZiyUV6mY7rCAv2DbH6k1WIEM/viewform" class="btn btn-primary" target="new">Anmelden</a>
 </div>
 
 ### Was?
@@ -33,4 +33,4 @@ Für die Teilnehmer bietet das Event eine ideale Gelegenheit sich untereinander 
 
 Der Hackathon startet am 20. Mai um 14 Uhr und endet pünktlich am 21. um 18 Uhr. Die Teilnehmer haben also 28 Stunden Zeit.
 
-**&rarr; Hier geht es zur [Anmeldung](https://goo.gl/PD7jnY).**
+**&rarr; Hier geht es zur <a href="https://docs.google.com/forms/d/1fHFZq0xMxaysTaisRNxZiyUV6mY7rCAv2DbH6k1WIEM/viewform" target="new">Anmeldung</a>.**
