@@ -33,6 +33,6 @@ Weils Spaß macht.
 
 ### Wann?
 
-20. und 21. Mai. Der Hackathon startet am 20. Mai um 14 Uhr und endet am 21. um 18 Uhr. Bedeutet 28 Stunden Zeit.
+Der Hackathon startet am 20. Mai um 14 Uhr und endet am 21. um 18 Uhr. Bedeutet 28 Stunden Zeit.
 
 **&rarr; Hier geht es zur <a href="https://docs.google.com/forms/d/1fHFZq0xMxaysTaisRNxZiyUV6mY7rCAv2DbH6k1WIEM/viewform" target="new">Anmeldung</a>.**
