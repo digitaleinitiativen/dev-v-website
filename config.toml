@@ -29,6 +29,11 @@ theme = "uh"
 
 [[params.menu]]
     before = false
+    label  = "#UH2016"
+    link   = "/"
+
+[[params.menu]]
+    before = false
     label  = "Umma hüsla"
     link   = "ummahuesla/"
 
@@ -40,7 +45,7 @@ theme = "uh"
 [[params.menu]]
     before = false
     label  = "IoT"
-    link   = "IoT/"
+    link   = "iot/"
 
 [[params.menu]]
     before = false
@@ -52,10 +57,10 @@ theme = "uh"
     label  = "Über uns"
     link   = "ueber/"
 
-[[params.menu]]
-    before = false
-    label  = "Blog"
-    link   = "post/"
+#[[params.menu]]
+#    before = false
+#    label  = "Blog"
+#    link   = "post/"
 
 # Enter a link for the follow button on the left
 [params.profile]

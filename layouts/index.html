@@ -2,9 +2,16 @@
 <div class="container">
     {{ partial "header" . }}
     {{ partial "events" . }}
-    {{ range where .Data.Pages "Title" "home" }}
-        {{ .Content }}
-    {{ end }}
+	<div class="row p-y-2">
+	  	<div class="col-md-offset-1 col-md-8">
+  		{{ range where .Data.Pages "Title" "home" }}
+	        {{ .Content }}
+	    {{ end }}    
+	  	</div>
+	  	<div class="col-md-3">
+	  		{{ partial "sponsors" . }}
+	  	</div>
+	</div>
     {{ partial "footer" . }}
 </div>
 {{ partial "foot" . }}

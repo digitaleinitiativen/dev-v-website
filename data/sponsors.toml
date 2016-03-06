@@ -1,15 +1,44 @@
+[[package]]
+"name"	= "TigerOrange"
+"class" = "tigerorange"
 
-[[sponsor]]
- "name"  = "Zumtobel"
- "url"   = "http://www.zumtobel.com"
- "logo"  = "//placehold.it/400x300"
+	[[package.sponsor]]
+ 	"name"  = "Zumtobel"
+ 	"url"   = "http://www.zumtobel.com"
+ 	"logo"  = "/img/sponsors/zumtobel.jpg"
 
-[[sponsor]]
- "name"  = "Google"
- "url"   = "http://www.google.com"
- "logo"  = "//placehold.it/400x300"
+[[package]]
+"name"	= "Fuchsia"
+"class"	= "fuchsia"
 
-[[sponsor]]
- "name"  = "Sun Microsystems"
- "url"   = "http://www.sun.com"
- "logo"  = "//placehold.it/400x300"
+[[package]]
+"name"	= "Goldenrod"
+"class"	= "goldenrod"
+
+	[[package.sponsor]]
+	"name"	= "Smart Textiles"
+	"url"	= "http://www.smart-textiles.com/"
+	"logo"	= "/img/sponsors/smart-textiles.jpg"
+
+[[package]]
+"name"	= "Gainsboro"
+"class"	= "gainsboro"
+
+[[package]]
+"name"	= "LavenderBlush"
+"class"	= "lavenderblush"
+
+	[[package.sponsor]]
+ 	"name"  = "HGN"
+ 	"url"   = "http://hgn.io"
+ 	"logo"  = "/img/sponsors/hgn.png"
+
+	[[package.sponsor]]
+ 	"name"  = "Fusonic"
+ 	"url"   = "http://fusonic.at"
+ 	"logo"  = "/img/sponsors/fusonic.png"
+
+[[package]]
+"name"	= "Full-HD"
+"class"	= "full-hd"
+

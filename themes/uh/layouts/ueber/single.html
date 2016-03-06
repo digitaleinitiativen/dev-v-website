@@ -1,8 +1,15 @@
 {{ partial "head" . }}
   <div class="container">
   {{ partial "header" . }}
-  {{ .Content }}
-  {{ partial "membersPartner" . }}
+  <div class="row p-y-2">
+  	<div class="col-md-offset-1 col-md-8">
+	  	{{ .Content }}
+	  	{{ partial "membersPartner" . }}
+	</div>
+  	<div class="col-md-3">
+  		{{ partial "sponsors" . }}
+  	</div>
+  </div>
   {{ partial "footer" . }}
   </div>
 {{ partial "foot" . }}

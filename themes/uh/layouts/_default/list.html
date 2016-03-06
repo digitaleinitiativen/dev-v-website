@@ -1,10 +1,17 @@
 {{ partial "head" . }}
 <div class="container">
     {{ partial "header" . }}
-    {{ $paginator := .Paginate .Data.Pages }}
-    {{ range $paginator.Pages }}
-        {{ .Render "summary" }} 
-    {{ end }}
+	<div class="row p-y-2">
+  		<div class="col-md-offset-1 col-md-8">
+		{{ $paginator := .Paginate .Data.Pages }}
+		{{ range $paginator.Pages }}
+		    {{ .Render "summary" }} 
+		{{ end }}
+		</div>
+	  	<div class="col-md-3">
+  			{{ partial "sponsors" . }}
+  		</div>
+  	</div>
     {{ partial "footer" . }}
 </div>
 {{ partial "foot" . }}

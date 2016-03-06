@@ -17,6 +17,11 @@ a:focus, a:hover {
 .yellow-bg {
 	background-color: #ffdd00;
 }
+h1 .black-white {
+	background-color: black;
+	color: white;
+	padding: 0rem 2rem;
+}
 
 .header-image {
 	height: 300px;

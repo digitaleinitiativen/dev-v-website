@@ -11,7 +11,7 @@ title = "home"
 +++
 
 
-## Auf zum fröhlichen Umma hüsla
+<h1><span class="black-white">&ldquo;Conneting EveryTHING&rdquo;</span></h1>
 
 Die Plattform für Digitale Initiativen lädt zum zweiten Umma hüsla Hackathon. Dieses Mal noch stärker noch frischer noch schöner. Extended. 
 

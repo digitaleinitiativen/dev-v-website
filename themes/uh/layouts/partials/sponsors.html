@@ -1,0 +1,16 @@
+<div class="sponsors">
+
+{{ range .Site.Data.sponsors.package }}
+{{ if isset . "sponsor" }}
+<div class="{{ .class }} p-y-1">
+	<h3 class="tigerorange">{{ .name }}</h3>
+	{{ range .sponsor }}
+	<div class="sponsor p-y-1">
+		<a href="{{ .url }}"><img src="{{ .logo }}" class="img-fluid" title="{{ .name }}" /></a>
+	</div>
+	{{ end }}
+</div>
+{{ end }}
+{{ end }}
+
+</div>

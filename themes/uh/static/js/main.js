@@ -6,4 +6,12 @@ $(document).ready(function() {
 		$('[data-event-select]').removeClass('active');
 		$(this).addClass('active');
 	});
+
+	$('[data-hover]').hover(function() {
+		var $this = $(this);
+		$this.data('original', $this.attr('src'));
+		$this.attr('src', $this.data('hover'));
+	}, function() {
+		$(this).attr('src', $(this).data('original'));
+	});
 });

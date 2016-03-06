@@ -1,44 +1,60 @@
 
 [[member]]
   "name"  = "Theresa"
-  "logo"  = "//placehold.it/200x150"
+  "pic"   = "/img/members/theresa.jpg"
+  "hover" = "/img/members/theresa-hover.jpg"
 
 [[member]]
   "name"  = "Isabella"
-  "logo"  = "//placehold.it/200x150"
+  "pic"   = "/img/members/isabella.jpg"
+  "hover" = "/img/members/isabella-hover.jpg"
 
 [[member]]
   "name"  = "Sara"
-  "logo"  = "//placehold.it/200x150"
+  "pic"   = "/img/members/sara.jpg"
+  "twitter" = "dieLauserin"
 
 [[member]]
   "name"  = "Linda"
-  "logo"  = "//placehold.it/200x150"
+  "pic"   = "/img/members/linda.jpg"
+  "hover" = "/img/members/linda-hover.jpg"
+  "twitter" = "linda_lawine"
 
 [[member]]
   "name"  = "Yavuz"
-  "logo"  = "//placehold.it/200x150"
+  "pic"   = "/img/members/yavuz.jpg"
+  "hover" = "/img/members/yavuz-hover.jpg"
+  "twitter" = "yavuz_webulos"
 
 [[member]]
   "name"  = "Tom"
-  "logo"  = "//placehold.it/200x150"
+  "pic"   = "/img/members/tom.jpg"
+  "hover" = "/img/members/tom-hover.jpg"
+  "twitter" = "geigerstom"
 
 [[member]]
   "name"  = "Chris"
-  "logo"  = "//placehold.it/200x150"
+  "pic"   = "/img/members/chris.jpg"
+  "hover" = "/img/members/chris-hover.jpg"
 
 [[member]]
-  "name"  = "Bene"
-  "logo"  = "//placehold.it/200x150"
+  "name"  = "Christoph B."
+  "pic"   = "/img/members/christoph-b.jpg"
+  "hover" = "/img/members/christoph-b-hover.jpg"
+  "twitter" = "bene_b_limited"
 
 [[member]]
-  "name"  = "Christoph"
-  "logo"  = "//placehold.it/200x150"
+  "name"  = "Christoph K."
+  "pic"   = "/img/members/christoph-k.jpg"
+  "twitter" = "corck"
 
 [[member]]
   "name"  = "Guntram"
-  "logo"  = "//placehold.it/200x150"
+  "pic"   = "/img/members/guntram.jpg"
+  "hover" = "/img/members/guntram-hover.jpg"
+  "twitter" = "guntrambechtold"
 
 [[member]]
   "name"  = "Johannes"
-  "logo"  = "//placehold.it/200x150"
+  "pic"   = "/img/members/johannes.jpg"
+  "twitter" = "joemoeAT"

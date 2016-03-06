@@ -2,9 +2,9 @@
 [[partner]]
  "name"  = "designforum Vorarlberg"
  "url"   = "http://www.designforum.at/v/t"
- "logo"  = "//placehold.it/400x300"
+ "logo"  = "/img/partner/designforum.png"
 
 [[partner]]
  "name"  = "Vlbgwebdev Meetup"
  "url"   = "http://vlbgwebdev.at/"
- "logo"  = "//placehold.it/400x300"
+ "logo"  = "/img/partner/vlbgwebdev.png"
