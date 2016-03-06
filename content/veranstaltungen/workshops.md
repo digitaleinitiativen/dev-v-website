@@ -7,7 +7,7 @@ date = "2015-10-02T21:49:20+02:00"
 
 ## Umma hüsla Workshops
 
-Wir wollen über die Grenzen der bestehenden Community hinaus Menschen einen Zugang zu den hoch technischen Themen geben und diese für die Materie begeistern. Dafür bieten wir Workshops für Schüler an.
+Wir wollen über die Grenzen der bestehenden Community hinaus Zugang zu den hoch technischen Themen geben und für die Materie begeistern. Dafür bieten wir Workshops für Schüler an.
 
 <div class="row event-list m-y-1 p-y-1">
 	<div class="col-md-2 event-date">
