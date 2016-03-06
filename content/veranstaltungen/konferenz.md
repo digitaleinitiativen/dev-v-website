@@ -21,7 +21,7 @@ Wir freuen uns über zahlreiches Erscheinen.
 	<div class="col-md-7">
 		<div class="row">
 			<div class="col-md-12">
-				<h4><a href="/veranstaltungen/ideenfindung">Umma hüsla Eröffnung</a></h4>
+				<h4>Umma hüsla Eröffnung</h4>
 				Weitere Informationen folgen in Kürze.
 			</div>
 		</div>
@@ -37,7 +37,7 @@ Wir freuen uns über zahlreiches Erscheinen.
 	<div class="col-md-7">
 		<div class="row">
 			<div class="col-md-12">
-				<h4><a href="/veranstaltungen/ideenfindung">TBD</a></h4>
+				<h4>TBD</h4>
 				Weitere Informationen folgen in Kürze.
 			</div>
 		</div>
@@ -53,7 +53,7 @@ Wir freuen uns über zahlreiches Erscheinen.
 	<div class="col-md-7">
 		<div class="row">
 			<div class="col-md-12">
-				<h4><a href="/veranstaltungen/ideenfindung">TBD</a></h4>
+				<h4>TBD</h4>
 				Weitere Informationen folgen in Kürze.
 			</div>
 		</div>

@@ -17,8 +17,7 @@ Die Plattform für Digitale Initiativen lädt zum zweiten Umma hüsla Hackathon.
 
 <pre>
 uh#> extend
-* Umma hüsla dauert länger: 1 Woche
-* Es gibt mehr Veranstaltungen: 8
+* Mehr Veranstaltungen: 8
 * Mehr Teilnehmer: ?
 * Mehr Partner: designforum Vorarlberg
 * Mehr Thema: Internet of Things

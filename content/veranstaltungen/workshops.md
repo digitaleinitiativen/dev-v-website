@@ -19,7 +19,7 @@ Wir wollen über die Grenzen der bestehenden Community hinaus Menschen einen Zug
 	<div class="col-md-7">
 		<div class="row">
 			<div class="col-md-12">
-				<h4><a href="/veranstaltungen/ideenfindung">BG Blumenstrasse</a></h4>
+				<h4>BG Blumenstrasse</h4>
 				Weitere Informationen folgen in Kürze.
 			</div>
 		</div>
@@ -35,7 +35,7 @@ Wir wollen über die Grenzen der bestehenden Community hinaus Menschen einen Zug
 	<div class="col-md-7">
 		<div class="row">
 			<div class="col-md-12">
-				<h4><a href="/veranstaltungen/ideenfindung">TBD</a></h4>
+				<h4>TBD</h4>
 				Weitere Informationen folgen in Kürze.
 			</div>
 		</div>
