@@ -1,3 +1,4 @@
+/** OVERWRITES **/
 body {
 	font-family: Avenir, "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
@@ -7,8 +8,34 @@ a {
 a:focus, a:hover {
 	color: #999;
 }
+h1, h2, h3, h4, h5 {
+	text-transform: uppercase;
+}
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {
+	text-decoration: none;
+}
 .nav a {
 	text-transform: uppercase;
+}
+code, pre {
+	background-color: black;
+	color: #fd0;
+	border-radius: 0;
+}
+pre {
+	padding: 1rem;
+}
+.btn {
+	border-radius: 0px;
+}
+.btn-primary {
+    color: #fd0;
+    background-color: black;
+    border: none;
+}
+.btn-primary:hover {
+	color: #fd0;
+	background-color: #333;
 }
 
 .yellow {
@@ -21,6 +48,7 @@ h1 .black-white {
 	background-color: black;
 	color: white;
 	padding: 0rem 2rem;
+	text-transform: none;
 }
 
 .header-image {
@@ -59,6 +87,12 @@ footer a:hover {
 .event-info h1 {
 	text-transform: uppercase;
 }
+.event-info a {
+	color: black;
+}
+.event-info a:hover {
+	text-decoration: none
+}
 .event-dates > div > div {
 	padding-top: 2rem;
 	font-size: 2rem;
@@ -78,4 +112,33 @@ footer a:hover {
 	border-top-color: #ffdd00;
 	border-width: 2rem;
 	margin-left: -2rem;
+}
+
+.event-list {
+	border-top: 5px solid black;
+}
+.event-list h3 {
+	font-size: 1.5rem;
+	font-weight: normal;
+}
+.event-list h4 {
+	font-size: 1.2rem;
+	font-weight: normal;
+	margin-bottom: 0px;
+}
+.event-list .event-date {
+	background-color: #fd0;
+}
+.event-list .event-date h3, .event-list .event-date h4 {
+	margin-bottom: 0px;
+}
+
+.infobox {
+	width: 20rem; 
+	float: left; 
+	margin-right: 1rem; 
+	margin-bottom: 1rem;
+	border: 2px solid black;
+	border-radius: 0px;
+	background-color: #fd0;
 }

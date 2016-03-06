@@ -15,43 +15,43 @@ title = "home"
 
 Die Plattform für Digitale Initiativen lädt zum zweiten Umma hüsla Hackathon. Dieses Mal noch stärker noch frischer noch schöner. Extended. 
 
-In Kooperation mit dem designforum Vorarlberg wird dieses Jahr in alle Richtungen "extended". 
+<pre>
+uh#> extend
+* Umma hüsla dauert länger: 1 Woche
+* Es gibt mehr Veranstaltungen: 8
+* Mehr Teilnehmer: ?
+* Mehr Partner: designforum Vorarlberg
+* Mehr Thema: Internet of Things
+* Mehr Design: Designathon hinzugefügt
+Umma hüsla successfully extended (0.34s)
+uh#>
+</pre>
 
-* Umma Hüsla dauert länger <code>(Eine Woche, vom 17. Mai bis zum 21. Mai)</code>. 
-* Es gibt mehr Veranstaltungen <code>(Ideenfindung, Workshops, Mini-Konferenz, Große Party)</code>. 
-* Mehr Teilnehmer. 
-* Mehr Partner. 
-* Mehr Thema. <code>(IoT)</code>
-* Mehr Design.
 
-## Das Thema "Connecting EveryTHING"
+## [Umma hüsla Hackathon](ummahuesla)
 
-IoT ist zur Zeit in aller Munde und in allen Geräten. In allen Dingen. Dem Thema wird eine große Zukunft vorausgesagt. Wir wollen hier in Vorarlberg einen Samen sähen und sichbar machen was schon hier ist.
+Am [Umma hüsla Hackathon](ummahuesla) haben wir nicht viel verändert. 28 Stunden von Freitag (20.5.) Mittag bis Samstag (21.5.) Abend wird gemeinsam mit Freunden und anderen Design und Technik begeisterten an einem innovativen Projekt gearbeitet. Jeder kann teilnehmen. Der Spaß steht im Vordergrund.
 
-## Was ist der Umma hüsla Hackathon?
+[&#8627; Weitere Informationen gibt es hier](ummahuesla)
 
-### Wer?
 
-Die fachlichen Hintergründe und technologischen Spezialisierungen unserer Teilnehmer sind so unterschiedlich wie sie selbst: Softwareentwickler, Hardwarehacker, Designer, Schüler und Studenten sind gleichermaßen zur Teilnahme aufgefordert.
+## [Internet of Things](iot)
 
-### Was?
+Das Internet ist mittlerweile bei uns, unserer Kommunikation und in unserer Arbeit angekommen. Es verändert uns, die Art wie wir kommunizieren und wie wir zusammen Arbeiten. Nun drängt es immer weiter in die Dinge vor die uns umgeben. Intelligente Kühlschränke, Autos die selber den Weg finden oder ein Blumenbeet, das sich selber wässert.
 
-Ob eine CO2 Messstation an der nächsten Kreuzung, ein mit dem Internet verbundener Schlagbohrer oder eine Leuchte, die mit Gesten gesteuert wird, wir wissen, dass ihr könnt. Die Wahl von Technologien, Designs sowie Aufgaben und Ziele sind den Teams überlassen. Eine fachkundige Jury vergibt am Ende die Hackathon Awards für die kreativsten, innovativsten und verrücktesten Lösungen. Prämiert wird, unter anderem, die “Machine of distortion” für Innovation, das “Iterative Iteration” für anspruchsvolle Lösungen oder der “Golden-Bug” für DEN Eyecatcher des Umma Hüslas 2016. 
+[&#8627; Ein kurzer Überblick zum Thema IoT](iot)
 
-(Der Fokus liegt auf der persönlichen Herausforderung, dem Austausch und im Wettstreit der Technologien einen der begehrten Awards zu ergattern.)
 
-### Warum?
+## [Workshop zur Ideenfindung](veranstaltungen/ideenfindung)
 
-Für die Teilnehmer bietet das Event eine ideale Gelegenheit sich untereinander auszutauschen, über neue Trends und Technologien in der Softwareentwicklungs- und Designszene zu diskutieren oder mit diesen direkt zu experimentieren. “Neue Entwicklungen wie IoT, SmartCities und Industrie 4.0 sind Chancen um Europa neu gegen Silicon Valley zu positionieren und vielleicht auch Leadership darin zu übernehmen”, so Guntram Bechtold.
+Im letzten Jahr haben wir fest gestellt, dass sich viele Teams schwer getan haben, die richtige Idee zu finden. Es sind nun auch Designer herzlichst zum Hackathon eingeladen. In einem Service Design Workshop wollen wir gemeinsam mögliche Ideen erarbeiten, so dass wir gut vorbereitet den Hackathon starten können.
 
-### Wann?
+[&#8627; Weitere Informationen zum Workshop](veranstaltungen/workshops)
 
-Der Hackathon startet am 20. Mai um 14 Uhr und endet pünktlich am 21. um 18 Uhr. Die Teilnehmer haben also 28 Stunden Zeit.
 
-## Was passiert sonst so?
+## [Weitere Veranstaltungen](veranstaltungen)
 
-Am 15. April findet ein ServiceDesign Workshop zur Ideenfindung statt. In der Woche vom 17. bis zum 21. Mai findet dann weitere Workshops und eine Minikonferenz mit mehreren Abendveranstaltungen statt.
+Neben weiteren [Workshops](veranstaltungen/workshops) gibt es auch eine [Mini-Konferenz](veranstaltungen/konferenz) und zum Abschluß eine große [Party](veranstaltungen/party).
 
-## Weitere Informationen folgen in Kürze
 
-Chris, Christoph B., Christoph K., Guntram, Isabella, Johannes, Linda, Theresa, Tom, Sara und Yavuz
+# [Wir](ueber) freuen uns auf euch!
