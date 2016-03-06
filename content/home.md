@@ -16,7 +16,7 @@ title = "home"
 
 <h1><span class="black-white">&ldquo;Connecting EveryTHING&rdquo;</span></h1>
 
-Die Plattform für Digitale Initiativen lädt zum zweiten Umma hüsla Hackathon. Dieses Mal noch stärker noch frischer noch schöner. Extended. 
+Die Plattform für Digitale Initiativen lädt zum zweiten Umma hüsla Hackathon. Dieses Mal noch stärker und schöner und frischer. Extended.
 
 <pre>
 uh#> extend
@@ -32,21 +32,21 @@ uh#>
 
 ## [Umma hüsla Hackathon](ummahuesla)
 
-Am [Umma hüsla Hackathon](ummahuesla) haben wir nicht viel verändert. 28 Stunden von Freitag (20.5.) Mittag bis Samstag (21.5.) Abend wird gemeinsam mit Freunden und anderen Design und Technik begeisterten an einem innovativen Projekt gearbeitet. Jeder kann teilnehmen. Der Spaß steht im Vordergrund.
+Am [Umma hüsla Hackathon](ummahuesla) Format haben wir nicht viel verändert. 28 Stunden von Freitag (20.5.) Mittag bis Samstag (21.5.) Abend wird gemeinsam mit Freunden und anderen Technik- und Designbegeisterten an einem innovativen Projekt gearbeitet. Jeder kann teilnehmen. Spaß steht im Vordergrund.
 
 [&#8627; Weitere Informationen gibt es hier](ummahuesla)
 
 
 ## [Internet of Things](iot)
 
-Das Internet ist mittlerweile bei uns, unserer Kommunikation und in unserer Arbeit angekommen. Es verändert uns, die Art wie wir kommunizieren und wie wir zusammen Arbeiten. Nun drängt es immer weiter in die Dinge vor die uns umgeben. Intelligente Kühlschränke, Autos die selber den Weg finden oder ein Blumenbeet, das sich selber wässert.
+Das Internet ist mittlerweile bei uns, in unserer Kommunikation und in unserer Arbeit angekommen. Es verändert die Art, wie wir kommunizieren und zusammen arbeiten. Immer weiter dringt es auch in jene Gegenstände vor, die uns umgeben. Intelligente Kühlschränke, Autos die ihren Weg von alleine finden oder ein smartes Blumenbeet, welches sich selber bewässert.
 
 [&#8627; Ein kurzer Überblick zum Thema IoT](iot)
 
 
 ## [Workshop zur Ideenfindung](veranstaltungen/ideenfindung)
 
-Im letzten Jahr haben wir fest gestellt, dass sich viele Teams schwer getan haben, die richtige Idee zu finden. Es sind nun auch Designer herzlichst zum Hackathon eingeladen. In einem Service Design Workshop wollen wir gemeinsam mögliche Ideen erarbeiten, so dass wir gut vorbereitet den Hackathon starten können.
+Im letzten Jahr haben wir festgestellt, dass manch ein Team sich schwer darin tat, die eine Idee zu finden. In einem Service Design Workshop filtern, erarbeiten und bereiten wir (jene Designer und Entwickler, die möchten) potentielle Ideen vorab vor, um gut gerüstet in den Hackathon zu starten.
 
 [&#8627; Weitere Informationen zum Workshop](veranstaltungen/workshops)
 
