@@ -14,4 +14,9 @@ $(document).ready(function() {
 	}, function() {
 		$(this).attr('src', $(this).data('original'));
 	});
+
+	$('[data-toggle]').click(function() {
+		$($(this).data('toggle')).toggle();
+		return false;
+	})
 });

@@ -24,6 +24,7 @@ code, pre {
 }
 pre {
 	padding: 1rem;
+	white-space: pre-wrap;
 }
 .btn {
 	border-radius: 0px;
@@ -64,13 +65,40 @@ h1 .black-white {
 	top: 4.5rem;
 	left: 12rem;
 }
+@media (max-width: 992px) {
+	.header-image .title {
+		top: 2rem;
+		right: 2rem;
+	}
+}
+@media (max-width: 578px) {
+	.header-image {
+		background-image: url(/img/header-mobile.jpg);
+		padding-top: 2rem;
+	}
+	.header-image .title {
+		position: initial;
+	}
+	.header-image .title h1 {
+		font-size: 2rem;
+	}
+}
 .header-image .logo {
 	position: absolute;
 	top: -2rem;
-	left: 4rem;
+	left: 3rem;
 	-ms-transform: rotate(-25deg); /* IE 9 */
     -webkit-transform: rotate(-25deg); /* Chrome, Safari, Opera */
     transform: rotate(-25deg);
+}
+@media (max-width: 578px) {
+	.header-image .logo {
+		left: 0.5rem;
+	}
+	.header-image .logo img {
+		width: 50%;
+		height: 50%;
+	}
 }
 
 footer a:hover {
@@ -80,18 +108,35 @@ footer a:hover {
 .event-info {
 	background-color: #ffdd00;
 	display: none;
+	padding: 2rem;
 }
 .event-info.active {
 	display: block;
 }
+@media (max-width: 578px) {
+	.event-info, .event-info.active {
+		padding: 0;
+		display: none;
+	}
+}
 .event-info h1 {
 	text-transform: uppercase;
+}
+@media (max-width: 578px) {
+	.event-info h1 {
+		font-size: 1.5rem;
+	}
 }
 .event-info a {
 	color: black;
 }
 .event-info a:hover {
 	text-decoration: none
+}
+@media (max-width: 578px) {
+	.event-dates {
+		display: none;
+	}
 }
 .event-dates > div > div {
 	padding-top: 2rem;
@@ -112,6 +157,14 @@ footer a:hover {
 	border-top-color: #ffdd00;
 	border-width: 2rem;
 	margin-left: -2rem;
+}
+.event-toggle {
+	display: none;
+}
+@media (max-width: 578px) {
+	.event-toggle {
+		display: block;
+	}
 }
 
 .event-list {

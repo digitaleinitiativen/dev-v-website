@@ -4,7 +4,7 @@
 <div class="row">
 	{{ range .Site.Data.members.member }}
 
-	<div class="col-sm-3">
+	<div class="col-md-3 col-sm-4 col-xs-6">
 		<div class="card">
 			<img class="card-image-top img-fluid" src="{{ .pic }}" {{ if isset . "hover" }} data-hover="{{ .hover }}" {{ end }}/>
 			<div class="card-block">
@@ -29,7 +29,7 @@
 
 <div class="row">
 	{{ range .Site.Data.partner.partner }}
-	<div class="col-sm-4">
+	<div class="col-md-4">
 		<div class="card">
 			<a href="{{ .url }}"><img class="card-image-top img-fluid" src="{{ .logo }}" /></a>
 			<div class="card-block">
