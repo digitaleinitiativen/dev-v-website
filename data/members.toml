@@ -12,6 +12,7 @@
 [[member]]
   "name"  = "Sara"
   "pic"   = "/img/members/sara.jpg"
+  "hover" = "/img/members/sara-hover.jpg"
   "twitter" = "dieLauserin"
 
 [[member]]
@@ -46,6 +47,7 @@
 [[member]]
   "name"  = "Christoph K."
   "pic"   = "/img/members/christoph-k.jpg"
+  "hover" = "/img/members/christoph-k-hover.jpg"
   "twitter" = "corck"
 
 [[member]]
@@ -57,4 +59,5 @@
 [[member]]
   "name"  = "Johannes"
   "pic"   = "/img/members/johannes.jpg"
+  "hover"   = "/img/members/johannes-hover.jpg"
   "twitter" = "joemoeAT"

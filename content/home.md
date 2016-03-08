@@ -48,7 +48,7 @@ Das Internet ist mittlerweile bei uns, in unserer Kommunikation und in unserer A
 
 Im letzten Jahr haben wir festgestellt, dass manch ein Team sich schwer darin tat, die eine Idee zu finden. In einem Service Design Workshop filtern, erarbeiten und bereiten wir (jene Designer und Entwickler, die möchten) potentielle Ideen vorab vor, um gut gerüstet in den Hackathon zu starten.
 
-[&#8627; Weitere Informationen zum Workshop](veranstaltungen/workshops)
+[&#8627; Weitere Informationen zum Workshop](veranstaltungen/ideenfindung)
 
 
 ## [Weitere Veranstaltungen](veranstaltungen)

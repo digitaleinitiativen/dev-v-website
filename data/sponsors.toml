@@ -11,6 +11,11 @@
 "name"	= "Fuchsia"
 "class"	= "fuchsia"
 
+	[[package.sponsor]]
+	"name" = "MASSIVE ART"
+	"url"  = "http://www.massiveart.com/de/"
+	"logo" = "/img/sponsors/massiveart.png"
+
 [[package]]
 "name"	= "Goldenrod"
 "class"	= "goldenrod"
