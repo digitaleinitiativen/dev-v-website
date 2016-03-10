@@ -158,6 +158,12 @@ footer a:hover {
 	border-width: 2rem;
 	margin-left: -2rem;
 }
+.event-dates > div.event-ideas {
+	border-right: 5px solid #ccc;
+}
+.event-dates > div.event-hackathon {
+	background-color: #ccc;
+}
 .event-toggle {
 	display: none;
 }

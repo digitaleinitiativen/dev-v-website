@@ -17,7 +17,7 @@ date = "2015-10-02T21:49:20+02:00"
 
 Das Motto Connecting EveryThing verspricht spannende Projekte: Es geht um IoT – the Internet of Things und damit beschäftigen wir uns mit einem DER großen Potenziale von morgen. Konkret wollen wir Dinge smart machen, dafür vernetzen wir Softwareentwickler und Designer und bilden gemischte Teams.
 
-„A was hüsland mr?“ Noch keine Idee? Dann bist du bei unserem Workshop genau richtig.
+„A was hüsland mr?“ Noch keine Idee? Dann bist du bei unserem Workshop, mit den Service Designerinnen Isabelle Goller und Isabella Natter-Spets, genau richtig.
 Die Projektideen an denen du im Team dann während dem Hackathon arbeiten kannst, entstehen in unserem Workshop. Der Workshop startet mit einem Input zu IoT und schafft ein gemeinsames Verständnis darüber. Weiter geht es mit Ideenentwicklung und Teambuilding - am Ende steht ein guter Start in gemischten Teams in den Hackathon.
 
 Wann & Wo?<br/>
