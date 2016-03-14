@@ -29,6 +29,11 @@
 "name"	= "Gainsboro"
 "class"	= "gainsboro"
 
+	[[package.sponsor]]
+ 	"name"  = "Kirschwerk"
+ 	"url"   = "http://www.kirschwerk.com/"
+ 	"logo"  = "/img/sponsors/kirschwerk.jpg"
+
 [[package]]
 "name"	= "LavenderBlush"
 "class"	= "lavenderblush"
