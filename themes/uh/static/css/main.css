@@ -201,3 +201,25 @@ footer a:hover {
 	border-radius: 0px;
 	background-color: #fd0;
 }
+
+.tigerorange {
+	color: #C88141;
+}
+
+.fuchsia {
+	color: fuchsia;
+}
+
+.goldenrod {
+	color: goldenrod;
+}
+
+.lavenderblush {
+	/* lavenderblush wouldn't be visible, so lets have this one */
+	color:  #FFBDD3;
+}
+
+.gainsboro {
+	color: gainsboro;
+}
+
