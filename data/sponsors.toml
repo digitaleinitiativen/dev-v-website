@@ -34,6 +34,11 @@
  	"url"   = "http://www.kirschwerk.com/"
  	"logo"  = "/img/sponsors/kirschwerk.jpg"
 
+	[[package.sponsor]]
+ 	"name"  = "Portalum"
+ 	"url"   = "http://www.portalum.eu/"
+ 	"logo"  = "/img/sponsors/portalum.png"
+
 [[package]]
 "name"	= "LavenderBlush"
 "class"	= "lavenderblush"
@@ -47,6 +52,16 @@
  	"name"  = "Fusonic"
  	"url"   = "http://fusonic.at"
  	"logo"  = "/img/sponsors/fusonic.png"
+
+	[[package.sponsor]]
+ 	"name"  = "WISTO"
+ 	"url"   = "http://www.wisto.at/"
+ 	"logo"  = "/img/sponsors/wisto.png"
+
+	[[package.sponsor]]
+ 	"name"  = "Ideefix"
+ 	"url"   = "http://www.ideefix.eu/"
+ 	"logo"  = "/img/sponsors/ideefix.png"
 
 [[package]]
 "name"	= "Full-HD"
