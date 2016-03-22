@@ -8,3 +8,13 @@
  "name"  = "Vlbgwebdev Meetup"
  "url"   = "http://vlbgwebdev.at/"
  "logo"  = "/img/partner/vlbgwebdev.png"
+
+ [[partner]]
+  "name"  = "Austria Wirtschafts Service"
+  "url"   = "http://www.awsg.at"
+  "logo"  = "/img/partner/aws.jpg"
+
+  [[partner]]
+   "name"  = "BMWFW"
+   "url"   = "http://www.bmwfw.gv.at"
+   "logo"  = "/img/partner/bmwfw.jpg"

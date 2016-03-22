@@ -14,7 +14,7 @@
 	[[package.sponsor]]
 	"name" = "MASSIVE ART"
 	"url"  = "http://www.massiveart.com/de/"
-	"logo" = "/img/sponsors/massiveart.png"
+	"logo" = "/img/sponsors/massiveart_bw.png"
 
 [[package]]
 "name"	= "Goldenrod"
@@ -23,7 +23,7 @@
 	[[package.sponsor]]
 	"name"	= "Smart Textiles"
 	"url"	= "http://www.smart-textiles.com/"
-	"logo"	= "/img/sponsors/smart-textiles.jpg"
+	"logo"	= "/img/sponsors/smart-textiles_bw.jpg"
 
 [[package]]
 "name"	= "Gainsboro"
@@ -32,12 +32,12 @@
 	[[package.sponsor]]
  	"name"  = "Kirschwerk"
  	"url"   = "http://www.kirschwerk.com/"
- 	"logo"  = "/img/sponsors/kirschwerk.jpg"
+ 	"logo"  = "/img/sponsors/kirschwerk_bw.jpg"
 
 	[[package.sponsor]]
  	"name"  = "Portalum"
  	"url"   = "http://www.portalum.eu/"
- 	"logo"  = "/img/sponsors/portalum.png"
+ 	"logo"  = "/img/sponsors/portalum_bw.png"
 
 [[package]]
 "name"	= "LavenderBlush"
@@ -46,17 +46,17 @@
 	[[package.sponsor]]
  	"name"  = "HGN"
  	"url"   = "http://hgn.io"
- 	"logo"  = "/img/sponsors/hgn.png"
+ 	"logo"  = "/img/sponsors/hgn_bw.png"
 
 	[[package.sponsor]]
  	"name"  = "Fusonic"
  	"url"   = "http://fusonic.at"
- 	"logo"  = "/img/sponsors/fusonic.png"
+ 	"logo"  = "/img/sponsors/fusonic_bw.png"
 
 	[[package.sponsor]]
  	"name"  = "WISTO"
  	"url"   = "http://www.wisto.at/"
- 	"logo"  = "/img/sponsors/wisto.png"
+ 	"logo"  = "/img/sponsors/wisto_bw.png"
 
 	[[package.sponsor]]
  	"name"  = "Ideefix"
@@ -66,4 +66,3 @@
 [[package]]
 "name"	= "Full-HD"
 "class"	= "full-hd"
-
