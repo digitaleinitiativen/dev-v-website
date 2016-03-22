@@ -1,16 +1,16 @@
 
 [[partner]]
- "name"  = "designforum Vorarlberg"
+ "name"  = "designforum v"
  "url"   = "http://www.designforum.at/v/t"
  "logo"  = "/img/partner/designforum.png"
 
 [[partner]]
- "name"  = "Vlbgwebdev Meetup"
+ "name"  = "Vlbgwebdev"
  "url"   = "http://vlbgwebdev.at/"
  "logo"  = "/img/partner/vlbgwebdev.png"
 
  [[partner]]
-  "name"  = "Austria Wirtschafts Service"
+  "name"  = "AWS"
   "url"   = "http://www.awsg.at"
   "logo"  = "/img/partner/aws.jpg"
 
