@@ -10,7 +10,7 @@ banner = "poster.png"
 ## Was ist Umma hüsla Hackathon?
 
 ### Für wen?
-
+</br>
 Jeden. Jedwede fachlichen Hintergründe, Erfahrungsstände und technologischen Spezialisierungen qualifizieren zur Teilnahme. Und somit seid all ihr Softwareentwickler, Hardwarehacker, Designer, Schüler und Studenten da draußen offiziell herzlich eingeladen.
 
 <div class="card card-block infobox">
@@ -22,15 +22,18 @@ Jeden. Jedwede fachlichen Hintergründe, Erfahrungsstände und technologischen S
 ### Was?
 
 Ein Projekt, das sich am Thema IoT orientiert. Egal ob eine CO2 Messstation für die nächsten Kreuzung, einen mit dem Internet verbundenen Schlagbohrer oder eine Leuchte, die von Gesten gesteuert wird, wir wissen, dass ihr könnt. Die Wahl von Technologien, Designs sowie Aufgaben und Zielen sind den Teams überlassen. Eine fachkundige Jury vergibt am Ende die beliebtesten Hackathon Awards in der Geschichte der Hackathons für die kreativsten, innovativsten und verrücktesten Lösungen. Prämiert wird, unter anderem, die “Machine of distortion” für Innovation, das “Iterative Iteration” für anspruchsvolle Lösungen oder der “Golden-Bug” für DEN Eyecatcher des Umma hüslas 2016. 
-
+</br>
+</br>
 ### Warum?
 
 Weils richtig wichtig und vom Feinsten ist. Das Event bietet eine ideale Gelegenheit sich auszutauschen, über Trendentwicklungen und neue Technologien in der Softwareentwicklungs- und Designszene zu diskutieren und mit diesen direkt zu experimentieren. “Neue Entwicklungen wie IoT, SmartCities und Industrie 4.0 mischen die Karten neu. Es sind Chancen, um Europa neu gegen Silicon Valley zu positionieren und vielleicht auch Leadership darin zu übernehmen”, so Guntram Bechtold.
-
+</br>
+</br>
 ### Warum noch?
 
 Weils Spaß macht.
-
+</br>
+</br>
 ### Wann?
 
 Der Hackathon startet am 20. Mai um 14 Uhr und endet am 21. um 18 Uhr. Bedeutet 28 Stunden Zeit.
