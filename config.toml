@@ -57,6 +57,11 @@ theme = "uh"
     label  = "Über uns"
     link   = "ueber/"
 
+[[params.menu]]
+    before  = false
+    label   = "FAQ"
+    link    = "faq/"
+
 #[[params.menu]]
 #    before = false
 #    label  = "Blog"

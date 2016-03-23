@@ -1,0 +1,20 @@
+
+<div class="row p-y-2">
+	<div class="col-md-12">
+		<form>
+			<input type="text" data-question-box class="form-control form-control-lg" placeholder="Frag uns!" />
+		</form>
+		<small class="text-muted">Alternativ kannst Du auch "Hey, Sara" sagen und dann deine Frage stellen.</small>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-12">
+	{{ range .Site.Data.faq.faq }}
+	<div data-question="{{ .question }}" class="p-y-1">
+		<h3>{{ .question }}</h3>
+		<p>{{ .answer }}</p>
+	</div>
+	{{ end }}
+	</div>
+</div>

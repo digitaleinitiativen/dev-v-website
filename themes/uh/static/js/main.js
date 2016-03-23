@@ -18,5 +18,22 @@ $(document).ready(function() {
 	$('[data-toggle]').click(function() {
 		$($(this).data('toggle')).toggle();
 		return false;
-	})
+	});
+
+	if($('[data-question]').length) {
+
+		var $questions = $('[data-question]');
+		$('[data-question-box]').on('blur keyup', function() {
+			var val = $(this).val();
+			$questions.each(function(index, element) {
+				var $element = $(element);
+				if($element.data('question').indexOf(val) != -1)
+					$element.show();
+				else
+					$element.hide();
+
+			});
+		});
+	}
+
 });
