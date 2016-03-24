@@ -5,12 +5,12 @@
 
 [[faq]]
 	"question"	= "Muss ich an einem IoT Projekt arbeiten?"
-	"answer"	= "Nein. Es steht Dir und deinem Team offen ein Projekt deiner Wahl zu beackern. Nichts desto trotz ist das Thema IoT."
+	"answer"	= "Nein. Es steht Dir und Deinem Team offen ein Projekt deiner Wahl zu beackern. Nichts desto trotz ist das Thema IoT."
 	"topic"		= ""
 
 [[faq]]
 	"question"	= "Was muss ich mit bringen?"
-	"answer"	= "Alles was Du benötigst um dein Projekt umzusetzen. Wir stellen Tisch, Stuhl, Strom und Internet. Vom Computer angefangen musst Du alles was darüber hinaus geht selber mit bringen."
+	"answer"	= "Alles was Du benötigst um dein Projekt umzusetzen. Wir stellen Tisch, Stuhl, Strom und Internet. Vom Computer angefangen musst Du für dein Setup alles was darüber hinaus geht selber mit bringen. Zumindest fast. Wir haben keine Mühen gescheut unsere Kontakte anzugraben und ein kleines Lager mit Material zusammenzustellen. Da drin landet dann Umma Hüsla Baumaterial, das zur freien Verfügung stehen wird."
 	"topic"		= ""
 
 [[faq]]
@@ -20,12 +20,12 @@
 
 [[faq]]
 	"question"	= "Werde ich verhungern, wenn ich nicht mein eigenes Essen mitbringe?"
-	"answer"	= "Wir sind uns nahezu sicher, dass das nicht passieren wird. Unsere gute Feen werden sich um Berge von Essen kümmern."
+	"answer"	= "Wir sind uns nahezu sicher, dass das nicht passieren wird. Unsere gute Feen werden sich um Berge von Essen und Seen aus Getränken kümmern."
 	"topic"		= ""
 
 [[faq]]
 	"question" 	= "Muss ich mich anmelden?"
-	"answer"	= "Ja, bitte. Ansonsten kann es sein, dass wir die Anzahl an Internet falsch berechnen und der Berg Essen ein bisschen zu klein geratet. Du tust Dir und uns einen rießen Gefallen."
+	"answer"	= "Ja, bitte. Ansonsten kann es sein, dass wir die Anzahl an Internet falsch berechnen und der Berg Essen ein bisschen zu klein geratet. Du tust Dir und uns einen Riesengefallen."
 	"topic"		= ""
 
 [[faq]]
@@ -35,12 +35,12 @@
 
 [[faq]]
 	"question"	= "Auf Google-Maps ist der Hackathon nicht eigezeichnet. Wo muss ich hin?"
-	"answer"	= "Hinter Achmühlerstraße in Dornbirn. Da, wo grüne Grashalme statt echtem Gras gepflanzt wurden."
+	"answer"	= "Hinter Achmühlerstraße in Dornbirn. Da ist der sogenannte CAMPUS V. Da, wo grüne Grashalme statt echtem Gras gepflanzt wurden."
 	"topic"		= ""
 
 [[faq]]
 	"question"	= "Muss ich wirklich auf dem Boden nächtigen, wenn Schönheitsschlaf vor Arbeit geht?"
-	"answer"	= "Nein, neben Autorückbank und deinem Bett daheim, helfen wir Von-Weit-Her-Angereisten-ohne-passendes Netzwerk gerne dabei, die geeignete Parkbank zu finden."
+	"answer"	= "Nein, neben Autorückbank und deinem Bett daheim helfen wir Von-Weit-Her-Angereisten-ohne-passendes-Netzwerk gerne dabei, die geeignete Parkbank zu finden."
 	"topic"		= ""
 
 [[faq]]
@@ -50,7 +50,7 @@
 
 [[faq]]
 	"question"	= "Wie läuft der Hackathon ab?"
-	"answer"	= "Nach deiner Anmeldung kriegst du eine Bestätigungsmail. Dann wirst du am 20. 5. anreisen blablabla"
+	"answer"	= "Nach deiner Anmeldung kriegst du eine Bestätigungsmail. Dann wirst du am 20. 5. anreisen blablabla."
 	"topic"		= ""
 
 [[faq]]
@@ -70,7 +70,7 @@
 
 [[faq]]
 	"question"	= "Werde ich wirklich 28 Stunden in einen Raum eingesperrt?"
-	"answer"	= "Nein, es sind genau genommen 4 Etagen. Und dann gibt es die Klos. Die Ecken für die Kettenraucher, und eine Lounge die 24/2 geöffnet hat."
+	"answer"	= "Nein, es sind genau genommen 4 Etagen. Und dann gibt es die Klos. Die Ecken für die Kettenraucher und eine Lounge die 24/2 geöffnet hat."
 	"topic"		= ""
 
 [[faq]]
@@ -85,12 +85,12 @@
 
 [[faq]]
 	"question"	= "Ist es wahr, dass da keiner mit mir spielen will?"
-	"answer"	= "Kann passieren, wenn du Kakao über ihre Tastaturen leerst, du mit dem Finger in andere Tastaturen tippst, du erst am 22.5. anreist oder mit dem Finger schnipst, bevor du Witze über jemandens Wissensstand, Mutter oder Katze machst. Kann halt schon passiern, dass du auch Mal von dir aus auf jemanden zugehen musst."
+	"answer"	= "Kann passieren, wenn du Kakao über fremdermanns Tastaturen leerst, du mit dem Finger in andere Bildschirme tippst, du erst am 22.5. anreist oder mit dem Finger schnipst, bevor du Witze über jemandens Wissensstand, Mutter oder Katze machst. Kann halt schon passiern, dass du auch Mal von dir aus auf jemanden zugehen musst."
 	"topic"		= ""
 
 [[faq]]
 	"question"	= "Was ist, wenn ich nicht gut genug bin?"
-	"answer"	= "Gut genug wofür? Teilzunehmen? Für Dein Projekt. Du kannst das Level und den Rahmen für dein Projekt selbst festlegen."
+	"answer"	= "Gut genug wofür? Teilzunehmen? Für Dein Projekt? Du kannst das Level und den Rahmen für dein Projekt selbst festlegen."
 	"topic"		= ""
 
 [[faq]]
@@ -110,7 +110,7 @@
 
 [[faq]]
 	"question"	= "Was passiert mit dem ganzen Sponsorengeld?"
-	"answer"	= "Jeder Euro wird so investiert, dass das für dich die besten 28 Stunden werden, die du 2016 am 20. und 21. Mai erleben wirst."
+	"answer"	= "Jeder Euro wird so investiert, dass das für dich die besten 28 Stunden werden, die du jemals 2016 am 20. und 21. Mai erlebt haben wirst."
 	"topic"		= ""
 
 [[faq]]
@@ -119,7 +119,7 @@
 	"topic"		= ""
 
 [[faq]]
-	"question" 	= "Kann man auch einfach zu besuch kommen?"
+	"question" 	= "Kann man auch einfach zu Besuch kommen?"
 	"answer"	= "Ja, komm vorbei. Bring deine Freunde und Familie mit. Neben introvertierten Programmierern wie Christoph haben wir auch extra Personen engagiert, die gerne und viel reden. Zum Beispiel Guntram."
 	"topic"		= ""
 
