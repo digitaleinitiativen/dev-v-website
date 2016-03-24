@@ -27,7 +27,7 @@ $(document).ready(function() {
 			var val = $(this).val();
 			$questions.each(function(index, element) {
 				var $element = $(element);
-				if($element.data('question').indexOf(val) != -1)
+				if($element.data('question').toLowerCase().indexOf(val.toLowerCase()) != -1)
 					$element.show();
 				else
 					$element.hide();
