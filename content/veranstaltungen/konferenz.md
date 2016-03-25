@@ -89,7 +89,9 @@ Der Eintritt ist jeweils frei.
 		<h4>19:00</h4>
 	</div>
 	<div class="col-md-8">
-		<h4>TBD</h4>
-		Weitere Informationen folgen in Kürze.
+		<h4>Quo vadis digitales Vorarlberg</h4>
+		<p>
+			Die noch überschaubare digitale Szene in Vorarlberg sorgt in letzter Zeit durchaus für Furore. Veranstaltungen und erfolgreiche Startups sind nur ein Indikator dafür. Doch wo ist neben großen, traditionsreichen Unternehmen Platz für neuartige Technologie? Wir diskutieren darüber.
+		</p>
 	</div>
 </div>
