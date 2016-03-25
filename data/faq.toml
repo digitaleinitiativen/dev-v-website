@@ -1,57 +1,72 @@
 [[faq]]
 	"question" 	= "Was passiert in den 28 Stunden?"
 	"answer" 	= "Leute ähnlicher Gesinnung treffen sich, arbeiten an spannenden Projekten, tauschen sich aus. Haben eine gute Zeit."
-	"topic"		= ""
+	"topic"		= "Ablauf"
 
 [[faq]]
 	"question"	= "Muss ich an einem IoT Projekt arbeiten?"
 	"answer"	= "Nein. Es steht Dir und Deinem Team offen ein Projekt deiner Wahl zu beackern. Nichts desto trotz ist das Thema IoT."
-	"topic"		= ""
+	"topic"		= "Thema"
 
 [[faq]]
 	"question"	= "Was muss ich mit bringen?"
 	"answer"	= "Alles was Du benötigst um dein Projekt umzusetzen. Wir stellen Tisch, Stuhl, Strom und Internet. Vom Computer angefangen musst Du für dein Setup alles was darüber hinaus geht selber mit bringen. Zumindest fast. Wir haben keine Mühen gescheut unsere Kontakte anzugraben und ein kleines Lager mit Material zusammenzustellen. Da drin landet dann Umma Hüsla Baumaterial, das zur freien Verfügung stehen wird."
-	"topic"		= ""
+	"topic"		= "Infrastruktur"
+
+[[faq]]
+	"question"	= "Ich hab null Ahnung von Programmieren, Hacken oder Maus anschließen? Was mach ich?"
+	"answer"	= "Grafik-, Produkt- und Sounddesigner. Gestalter aller Art. Kommet. Kommet."
+	"topic"		= "Thema"
+
+[[faq]]
+	"question"	= "Ich hab eine großartige, weltbewegende Idee, kann aber nichts. Was tun?"
+	"answer"	= "Komm zum Ideenfindungsworkshop oder schreib uns. Vielleicht finden wir uninspierierte Wunderwuzzis in der Umsetzung."
+	"topic"		= "Thema"
+
+[[faq]]
+	"question"	= "Ich hab null Plan was ich tun soll, kann aber super Sachen gestalten oder Code-Wörter aneinander reihen. Darf ich trotzdem kommen?"
+	"answer"	= "Eigentlich nicht, weil die Mindestanforderung ist den Ideenfindungsworkshop auf dieser Homepage zu finden."
+	"topic"		= "Thema"
 
 [[faq]]
 	"question"	= "Kann ich mit meinem alten Pentium 2 auftauchen?"
 	"answer"	= "Komme mit was auch immer Du Dich zurecht findest. Wir nehmen explizit Abstand von Statussymbolen und trendy Shit aller Art. Mach Deinen eigenen Shit."
-	"topic"		= ""
+	"topic"		= "Infrastruktur"
 
 [[faq]]
 	"question"	= "Werde ich verhungern, wenn ich nicht mein eigenes Essen mitbringe?"
 	"answer"	= "Wir sind uns nahezu sicher, dass das nicht passieren wird. Unsere gute Feen werden sich um Berge von Essen und Seen aus Getränken kümmern."
-	"topic"		= ""
+	"topic"		= "Infrastruktur"
 
 [[faq]]
 	"question" 	= "Muss ich mich anmelden?"
 	"answer"	= "Ja, bitte. Ansonsten kann es sein, dass wir die Anzahl an Internet falsch berechnen und der Berg Essen ein bisschen zu klein geratet. Du tust Dir und uns einen Riesengefallen."
-	"topic"		= ""
+	"topic"		= "Ablauf"
 
 [[faq]]
 	"question"	= "Wer verdient am Hackathon die dicke Kohle?"
 	"answer"	= "Niemand. Alles ehrenamtlich. Jeder Euro geht zurück an die Community. Das Orga Team wird ausschließlich in Fritz Cola ausgezahlt."
-	"topic"		= ""
+	"topic"		= "Geld"
 
 [[faq]]
 	"question"	= "Auf Google-Maps ist der Hackathon nicht eigezeichnet. Wo muss ich hin?"
 	"answer"	= "Hinter Achmühlerstraße in Dornbirn. Da ist der sogenannte CAMPUS V. Da, wo grüne Grashalme statt echtem Gras gepflanzt wurden."
-	"topic"		= ""
+	"topic"		= "Infrastruktur"
 
 [[faq]]
 	"question"	= "Muss ich wirklich auf dem Boden nächtigen, wenn Schönheitsschlaf vor Arbeit geht?"
 	"answer"	= "Nein, neben Autorückbank und deinem Bett daheim helfen wir Von-Weit-Her-Angereisten-ohne-passendes-Netzwerk gerne dabei, die geeignete Parkbank zu finden."
-	"topic"		= ""
+	"topic"		= "Infrastruktur"
 
 [[faq]]
 	"question"	= "Meine Eltern haben mir das Taschengeld gestrichen und ich kann die Teilnahmegebühr nicht bezahlen?"
 	"answer"	= "Der Hackathon kostet abgesehen von Zeit, etwas Liebe für die Sache und ein paar Stunden geraubten Schlafes nichts."
-	"topic"		= ""
+	"topic"		= "Geld"
 
 [[faq]]
 	"question"	= "Wie läuft der Hackathon ab?"
 	"answer"	= "Nach deiner Anmeldung kriegst du eine Bestätigungsmail. Dann wirst du am 20. 5. anreisen blablabla."
-	"topic"		= ""
+	"topic"		= "Ablauf"
 
 [[faq]]
 	"question"	= "Ich möchte lieber gesiezt werden?"
@@ -61,70 +76,79 @@
 [[faq]]
 	"question"	= "Aber was nichts kostet, ist nichts wert?"
 	"answer"	= "Nicht alle Memes auf Pinterest sind gute Memes auf Pinterest. Das hat schon Sokrates gesagt."
-	"topic"		= ""
+	"topic"		= "Geld"
 
 [[faq]]
 	"question"	= "Meine Freunde, mit denen ich ein Team machen wollte, haben gesagt, dass sie nicht mitkommen möchten, weil sie Hackatonnen doof finden?"
 	"answer"	= "Komm alleine, du findest neue. Es gibt die Möglichkeit dich mit anderen in einem Team zusammenzufinden. Und sag deinen Freunden, dass ma Hacka-Tonnen mit Bindestrich schreibt."
-	"topic"		= ""
+	"topic"		= "Ablauf"
 
 [[faq]]
 	"question"	= "Werde ich wirklich 28 Stunden in einen Raum eingesperrt?"
 	"answer"	= "Nein, es sind genau genommen 4 Etagen. Und dann gibt es die Klos. Die Ecken für die Kettenraucher und eine Lounge die 24/2 geöffnet hat."
-	"topic"		= ""
+	"topic"		= "Ablauf"
 
 [[faq]]
 	"question"	= "Stimmt das Gerücht, dass 100.000 Hamster für Strom in ein Hamsterrad gesperrt werden?"
 	"answer"	= "Ja, aber nicht bei uns. Wir kriegen den aus der Dose und die Dosen kriegt den von 500.000 Bio-Generated-Hamstern."
-	"topic"		= ""
+	"topic"		= "Infrastruktur"
 
 [[faq]]
 	"question"	= "Müssen wir das W-Lan selber mitbringen?"
 	"answer"	= "Ja, und zudem dein ganzes Projekt in Binär mit einem Meisel in Stein du schreiben musst."
-	"topic"		= ""
+	"topic"		= "Infrastruktur"
 
 [[faq]]
 	"question"	= "Ist es wahr, dass da keiner mit mir spielen will?"
 	"answer"	= "Kann passieren, wenn du Kakao über fremdermanns Tastaturen leerst, du mit dem Finger in andere Bildschirme tippst, du erst am 22.5. anreist oder mit dem Finger schnipst, bevor du Witze über jemandens Wissensstand, Mutter oder Katze machst. Kann halt schon passiern, dass du auch Mal von dir aus auf jemanden zugehen musst."
-	"topic"		= ""
+	"topic"		= "Sozial"
 
 [[faq]]
 	"question"	= "Was ist, wenn ich nicht gut genug bin?"
 	"answer"	= "Gut genug wofür? Teilzunehmen? Für Dein Projekt? Du kannst das Level und den Rahmen für dein Projekt selbst festlegen."
-	"topic"		= ""
+	"topic"		= "Sozial"
 
 [[faq]]
 	"question"	= "Was, wenn ich meine Zeit verschwende?"
 	"answer"	= "Was wenn du unsere Zeit verschwendest, mit der Beantwortung dieser Frage?"
-	"topic"		= ""
+	"topic"		= "Ablauf"
 
 [[faq]]
 	"question"	= "Kommen die Fragen echt alle aus der Community?"
 	"answer"	= "Ja. Und die Antworten von Gerda Rogers."
-	"topic"		= ""
+	"topic"		= "Sozial"
 
 [[faq]]
 	"question"	= "Sind Hacker nicht böse?"
 	"answer"	= "Das Wort Hackathon hat zwei unterschiedliche Ursprünge. Einerseit Hackfleisch, das sind die Bösen, weil sie das aus einem machen können. Andererseits Holzhacken, das sind die Guten, weil die für Wärme sorgen. Wir beziehen uns grundsätzlich auf Letztere."
-	"topic"		= ""
+	"topic"		= "Sozial"
 
 [[faq]]
 	"question"	= "Was passiert mit dem ganzen Sponsorengeld?"
 	"answer"	= "Jeder Euro wird so investiert, dass das für dich die besten 28 Stunden werden, die du jemals 2016 am 20. und 21. Mai erlebt haben wirst."
-	"topic"		= ""
+	"topic"		= "Geld"
 
 [[faq]]
 	"question" 	= "Wer kann mitmachen?"
 	"answer"	= "JEDER. ALLE. IMMER. Egal ob groß, klein, dick, dünn, schwarz, weiß, gelb, rot, leicht grün, alt, jung, arm, reich, ♂, ♀, Mensch, Tier, Weintrinker, Biertrinker."
-	"topic"		= ""
+	"topic"		= "Ablauf"
 
 [[faq]]
 	"question" 	= "Kann man auch einfach zu Besuch kommen?"
 	"answer"	= "Ja, komm vorbei. Bring deine Freunde und Familie mit. Neben introvertierten Programmierern wie Christoph haben wir auch extra Personen engagiert, die gerne und viel reden. Zum Beispiel Guntram."
-	"topic"		= ""
+	"topic"		= "Sozial"
+
+[[faq]]
+	"question"	= "Muss ich mich vorher impfen?"
+	"answer"	= "Nicht wenn Du dich mit einem bis obenhin zugegzogenen Kapuzenhoodie einsam in die Ecke sitzt und mit niemanden sprichst. Wie es bei Hackathons so üblich ist. Das ist auch unsere Empfehlung. Eigentlich."
+	"topic"		= "Ablauf"
+
+[[faq]]
+	"question"	= "Wie sehr bin ich an irgendwas geknebelt, wenn ich mich anmelde?"
+	"answer"	= "Gar nicht, komm wann du willst, mach was du willst. Solange Du uns die 4 Waschtrockner abnimmst, ist der Vertrag erfüllt."
 
 [[faq]]
 	"question" 	= "Hört diese Seite wirklich auf \"Hey, Sara\"?"
 	"answer"	= "Nein, das ist alles Fake."
-	"topic"		= ""
+	"topic"		= "Sozial"
 
