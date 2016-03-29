@@ -39,6 +39,11 @@
  	"url"   = "http://www.portalum.eu/"
  	"logo"  = "/img/sponsors/portalum_bw.png"
 
+	[[package.sponsor]]
+ 	"name"  = "Speedstartstudio"
+ 	"url"   = "http://speedstartstudio.com/"
+ 	"logo"  = "/img/sponsors/speedstartstudio_bw.png"
+
 [[package]]
 "name"	= "LavenderBlush"
 "class"	= "lavenderblush"
