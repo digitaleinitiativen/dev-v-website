@@ -17,6 +17,7 @@ uh#> extend
 * Mehr Partner: designforum Vorarlberg
 * Mehr Thema: Internet of Things
 * Mehr Design: Designathon hinzugefügt
+* Fixed Location: designforum Vorarlberg @ CAMPUS V Dornbirn
 Umma hüsla successfully extended (0.34s)
 uh#>
 </pre>

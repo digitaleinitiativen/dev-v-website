@@ -202,24 +202,34 @@ footer a:hover {
 	background-color: #fd0;
 }
 
+.sponsor-heading {
+	text-indent: -10000px;
+	height:5px;
+}
+
 .tigerorange {
 	color: #C88141;
+	background-color: #C88141;
 }
 
 .fuchsia {
+	background-color: fuchsia;
 	color: fuchsia;
 }
 
 .goldenrod {
+	background-color: goldenrod;
 	color: goldenrod;
 }
 
 .lavenderblush {
 	/* lavenderblush wouldn't be visible, so lets have this one */
+	background-color: lavenderblush;
 	color:  #FFBDD3;
 }
 
 .gainsboro {
+	background-color: gainsboro;
 	color: gainsboro;
 }
 

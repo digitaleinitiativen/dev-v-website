@@ -19,6 +19,11 @@
 	"topic"		= "Thema"
 
 [[faq]]
+	"question"	= "Ich bin einer von denen die was mit Design machen. Was würdet ihr an meiner Stelle mitbringen?"
+	"answer"	= "Womit du am besten, effektivsten und liebsten arbeitest, weiß wahrscheinlich keiner besser als du. Als kleines Extra sind wir zwar darum bemüht, ein bisschen was an Bastel-Tech-Kram-Lager zusammenzustellen, doch was genau, das ist, steht aktuell, zum Zeitpunkt, bei dem wir versuchen diese Frage in den FAQs zu beantworten, noch nicht fest. Heißt im Klartext: Bring mit was du brauchst, evtl. brauchst, vielleicht nicht brauchst aber gut aussieht."
+	"topic"		= "Thema"
+
+[[faq]]
 	"question"	= "Ich hab eine großartige, weltbewegende Idee, kann aber nichts. Was tun?"
 	"answer"	= "Komm zum Ideenfindungsworkshop oder schreib uns. Vielleicht finden wir uninspierierte Wunderwuzzis in der Umsetzung."
 	"topic"		= "Thema"

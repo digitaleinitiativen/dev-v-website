@@ -7,6 +7,8 @@ date = "2015-10-02T21:49:20+02:00"
 
 ## Umma hüsla Schüler-Workshops
 
+**Achtung: prinzipiell sind alle Workshop Plätze vergeben. Bei entsprechendem Interesse werden aber nach Möglichkeiten weitere Workshops angeboten.**
+
 Wir wollen über die Grenzen der bestehenden Fach-Community hinaus Zugang zu hoch technischen Themen vermitteln und Teilnehmer für Webtechnologien  begeistern. Dafür bieten wir die Workshops an Schulen an. Programmierer aus der Region entwickeln gemeinsam mit Schülern an einem Nachmittag innerhalb von 3 Stunden eine Webapp oder ein Spiel. Der Fokus liegt auf der Vermittlung von Inhalten über den praktischen Weg sowie darauf den Schülern Einblick in die Arbeit in der digitalen Branche zu geben. 
 
 Für wen: Für alle interessierten Schüler im Alter von 14 bis 18 Jahren. Die Anmeldung ist solange möglich wie Plätze frei sind. Was zählt ist das Interesse und nicht die fachlichen Fähigkeiten. Jeder ist willkommen.
@@ -32,7 +34,6 @@ Inhalte: Das geplante Ergebnis ist, dass jeder Schüler, abhängig vom Steckenpf
 		<div class="row">
 			<div class="col-md-12">
 				<h4>BG Blumenstrasse</h4>
-				Weitere Informationen folgen in Kürze.
 			</div>
 		</div>
 	</div>
@@ -47,11 +48,8 @@ Inhalte: Das geplante Ergebnis ist, dass jeder Schüler, abhängig vom Steckenpf
 	<div class="col-md-7">
 		<div class="row">
 			<div class="col-md-12">
-				<h4>TBD</h4>
-				Weitere Informationen folgen in Kürze.
+				<h4>BRG-BORG Dornbirn Schoren</h4>
 			</div>
 		</div>
 	</div>
 </div>
-
-Interesse einen Workshop zu hosten? Interessiert einen Einblick in die Entwicklung im Webumfeld zu bekommen. Meldet euch bei <a href="mailto:johannes@diin.io">johannes@diin.io</a>.

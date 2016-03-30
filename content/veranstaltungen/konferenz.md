@@ -11,11 +11,20 @@ Ein Hackathon ist nicht genug. Wir wollen, dass die Community bis unter die Fing
 Der Eintritt ist jeweils frei.
 
 <div class="row event-list m-y-1 p-y-1">
-	<div class="col-md-2 event-date">
-		<h4>17. Mai</h4>
-	</div>
-	<div class="col-md-2">
-		<h4>19:00</h4>
+	<div class="col-md-4">
+		<div class="row m-b-1">
+			<div class="col-md-6 event-date">
+				<h4>17. Mai</h4>
+			</div>
+			<div class="col-md-6">
+				<h4>19:00</h4>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-12">
+				<h4>FH Vorarlberg</h4>
+			</div>
+		</div>
 	</div>
 	<div class="col-md-8">
 		<h3>Umma hüsla Eröffnung - Internet of Things</h3>

@@ -1,14 +1,18 @@
 <div class="sponsors">
+<small>Dank unseren Sponsoren:</small>
 
 {{ range .Site.Data.sponsors.package }}
 {{ if isset . "sponsor" }}
-<div class="{{ .class }} p-y-1">
-	<h3 class="{{ .class }}">{{ .name }}</h3>
+<div class="p-y-1">
+	<h3 class="sponsor-heading {{ .class }}">{{ .name }}</h3>
+	<div class="row">
+	{{ $rows := .rows }}
 	{{ range .sponsor }}
-	<div class="sponsor p-y-1">
+	<div class="sponsor p-y-1 col-md-{{ $rows }}">
 		<a href="{{ .url }}"><img src="{{ .logo }}" class="img-fluid" title="{{ .name }}" /></a>
 	</div>
 	{{ end }}
+	</div>
 </div>
 {{ end }}
 {{ end }}

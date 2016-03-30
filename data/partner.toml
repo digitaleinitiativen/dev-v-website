@@ -5,16 +5,26 @@
  "logo"  = "/img/partner/designforum.png"
 
 [[partner]]
+ "name"  = "IoT Dornbirn"
+ "url"   = "http://www.iot-austria.at"
+ "logo"  = "/img/partner/iot_dornbirn.png"
+
+[[partner]]
+ "name"  = "FH Vorarlberg"
+ "url"   = "http://fhv.at"
+ "logo"  = "/img/partner/fhv.png"
+
+[[partner]]
  "name"  = "Vlbgwebdev"
  "url"   = "http://vlbgwebdev.at/"
  "logo"  = "/img/partner/vlbgwebdev.png"
 
- [[partner]]
-  "name"  = "AWS"
-  "url"   = "http://www.awsg.at"
-  "logo"  = "/img/partner/aws.jpg"
+[[partner]]
+ "name"  = "AWS"
+ "url"   = "http://www.awsg.at"
+ "logo"  = "/img/partner/aws.jpg"
 
-  [[partner]]
-   "name"  = "BMWFW"
-   "url"   = "http://www.bmwfw.gv.at"
-   "logo"  = "/img/partner/bmwfw.jpg"
+[[partner]]
+ "name"  = "BMWFW"
+ "url"   = "http://www.bmwfw.gv.at"
+ "logo"  = "/img/partner/bmwfw.jpg"
