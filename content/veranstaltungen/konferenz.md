@@ -54,12 +54,34 @@ Der Eintritt ist jeweils frei.
 	</div>
 </div>
 <div class="row event-list m-y-1 p-y-1">
+
+	<div class="col-md-4">
+		<div class="row m-b-1">
+			<div class="col-md-6 event-date">
+				<h4>18. Mai</h4>
+			</div>
+			<div class="col-md-6">
+				<h4>19:00</h4>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-12">
+				<h4>Altes Hallenbad Feldkirch</h4>
+			</div>
+		</div>
+	</div>
+
 	<div class="col-md-2 event-date">
 		<h4>18. Mai</h4>
 	</div>
 	<div class="col-md-2">
 		<h4>19:00</h4>
 	</div>
+	<div class="row">
+			<div class="col-md-12">
+				<h4>Altes Hallenbad Feldkirch</h4>
+			</div>
+		</div>
 	<div class="col-md-8">
 		<h3 id="produkt">Der Reise zum digitalen Produkt</h3>
 		<p>
@@ -91,11 +113,20 @@ Der Eintritt ist jeweils frei.
 	</div>
 </div>
 <div class="row event-list m-y-1 p-y-1">
-	<div class="col-md-2 event-date">
-		<h4>19. Mai</h4>
-	</div>
-	<div class="col-md-2">
-		<h4>19:00</h4>
+	<div class="col-md-4">
+		<div class="row m-b-1">
+			<div class="col-md-6 event-date">
+				<h4>19. Mai</h4>
+			</div>
+			<div class="col-md-6">
+				<h4>19:00</h4>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-12">
+				<h4>Landhaus Bregenz</h4>
+			</div>
+		</div>
 	</div>
 	<div class="col-md-8">
 		<h4>Quo vadis digitales Vorarlberg</h4>

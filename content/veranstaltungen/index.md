@@ -12,7 +12,7 @@ date = "2015-10-02T21:49:20+02:00"
 	<div class="col-md-9">
 		<div class="row">
 			<div class="col-md-12">
-				<h3><a href="/veranstaltungen/ideenfindung">13:30 Workshop zur Ideenfindung</a></h3>
+				<h3><a href="/veranstaltungen/ideenfindung">13:30 Workshop zur Ideenfindung @ Campus V // Coworking Dornbirn</a></h3>
 			</div>
 		</div>
 	</div>
@@ -24,7 +24,7 @@ date = "2015-10-02T21:49:20+02:00"
 	<div class="col-md-9">
 		<div class="row">
 			<div class="col-md-12">
-				<h3><a href="/veranstaltungen/konferenz">19:00 Eröffnung Umma huesla @ FH Vorarlberg</a></h3>
+				<h3><a href="/veranstaltungen/konferenz">19:00 Eröffnung Umma huesla @ FH Vorarlberg Dornbirn</a></h3>
 			</div>
 		</div>
 	</div>
@@ -41,7 +41,7 @@ date = "2015-10-02T21:49:20+02:00"
 		</div>
 		<div class="row">
 			<div class="col-md-12">
-				<h3><a href="/veranstaltungen/konferenz">19:00 Konferenz</a></h3>
+				<h3><a href="/veranstaltungen/konferenz">19:00 Konferenz @ Altes Hallenbad Feldkirch</a></h3>
 			</div>
 		</div>
 	</div>
@@ -58,7 +58,7 @@ date = "2015-10-02T21:49:20+02:00"
 		</div>
 		<div class="row">
 			<div class="col-md-12">
-				<h3><a href="/veranstaltungen/konferenz">19:00 Konferenz</a></h3>
+				<h3><a href="/veranstaltungen/konferenz">19:00 Konferenz @ Landhaus Bregenz</a></h3>
 			</div>
 		</div>
 	</div>
@@ -70,7 +70,7 @@ date = "2015-10-02T21:49:20+02:00"
 	<div class="col-md-9">
 		<div class="row">
 			<div class="col-md-12">
-				<h3><a href="/ummahuesla">13:30 Umma huesla Hackathon</a></h3>
+				<h3><a href="/ummahuesla">13:30 Umma huesla Hackathon @ CAMPUS V // designforum Dornbirn</a></h3>
 			</div>
 		</div>
 	</div>
@@ -82,7 +82,7 @@ date = "2015-10-02T21:49:20+02:00"
 	<div class="col-md-9">
 		<div class="row">
 			<div class="col-md-12">
-				<h3><a href="/ummahuesla">bis 20:00 Umma huesla Hackathon</a></h3>
+				<h3><a href="/ummahuesla">bis 20:00 Umma huesla Hackathon @ CAMPUS V // designforum Dornbirn</a></h3>
 			</div>
 		</div>
 		<div class="row">
