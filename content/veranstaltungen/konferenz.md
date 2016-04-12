@@ -47,9 +47,19 @@ Der Eintritt ist jeweils frei.
 	<div class="col-md-2 col-md-offset-2">
 	</div>
 	<div class="col-md-8">
-		<h5>Keynote</h5>
+		<h5>Keynote Dr. Abhinav Somaraju, System Architect IoT, <a href="http://www.tridonic.com/">Tridonic GmbH &amp; Co KG</a>, Dornbirn </h5>
 		<p>
-			Wird in Kürze angekündigt.
+			Das Internet der Dinge ist die technologische Revolution unserer Zeit und wird all unsere Geräte intelligent vernetzen.  Werden diese in Zukunft über unser Lichtsystem miteinander kommunizieren, von der elektrischen Jalousie, zur Heizung bis hin zum Backofen? Zumtobel Group forscht an diesen Möglichkeiten und Dr. Somaraju wird uns einen Einblick in die Zukunft vernetzter Gebäude geben.
+		</p>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-2 col-md-offset-2">
+	</div>
+	<div class="col-md-8">
+		<h5>Markus Weinberger, <a href="http://www.iot-lab.ch/">Director of Bosch IoT Lab</a></h5>
+		<p>
+			Mit der Vorstellung ihrer eigenen IoT-Cloud, haben Bosch eindrucksvoll gezeigt, dass das Internet der Dinge mehr als nur ein Buzzword, ja gar die Zukunft ist. Bis 2020 sollen alle ihre Produkte an diese angeschlossen sein. Herr Weinberger forscht für Bosch im eigenen IoT Lab an der Universität St. Gallen und wird uns erzählen wie man ein IoT Geschäftsmodell entwickelt, warum IoT neue Geschäftsmodelle erfordert und welches die wichtigsten Schritte sind.
 		</p>
 	</div>
 </div>
@@ -70,20 +80,8 @@ Der Eintritt ist jeweils frei.
 			</div>
 		</div>
 	</div>
-
-	<div class="col-md-2 event-date">
-		<h4>18. Mai</h4>
-	</div>
-	<div class="col-md-2">
-		<h4>19:00</h4>
-	</div>
-	<div class="row">
-			<div class="col-md-12">
-				<h4>Altes Hallenbad Feldkirch</h4>
-			</div>
-		</div>
 	<div class="col-md-8">
-		<h3 id="produkt">Der Reise zum digitalen Produkt</h3>
+		<h3 id="produkt">Der Pfad zum digitalen Produkt</h3>
 		<p>
 			Nie war es einfacher ein Produkt zu schaffen.<br/>
 			Nie war es schwerer.<br/>
@@ -95,7 +93,7 @@ Der Eintritt ist jeweils frei.
 <div class="row">		
 	<div class="col-md-2 col-md-offset-2"><img class="img-fluid" src="/img/speaker/thomas.jpg" /></div>
 	<div class="col-md-8">
-	<h5><a href="https://twitter.com/__tosh">Thomas Schranz</a>, <a href="">Blossom.io</a></h5>
+	<h5><a href="https://twitter.com/__tosh">Thomas Schranz</a>, <a href="http://blossom.io">Blossom.io</a></h5>
 		<p>
 			Firmen wie Twitter, Facebook, Apple, Spotify, Netflix und die NASA haben nicht nur Teams über die ganze Welt verteilt sondern sind auch Kunden von Blossom.<br/>
 			Blossom ist ein Project Tracking Tool das speziell auf die extremen Anforderungen von global verteilten Firmen ausgerichtet ist.<br/>
@@ -124,7 +122,7 @@ Der Eintritt ist jeweils frei.
 		</div>
 		<div class="row">
 			<div class="col-md-12">
-				<h4>Landhaus Bregenz</h4>
+				<h4>TBD/Bregenz</h4>
 			</div>
 		</div>
 	</div>
