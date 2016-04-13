@@ -7,7 +7,7 @@ date = "2015-10-02T21:49:20+02:00"
 
 ## Umma hüsla Konferenz
 
-Ein Hackathon allein ist nicht genug. Wir wollen, dass die Community bis unter die Fingernägel motiviert und mit einem Rucksack voller Ideen in den Hackathon startet. Dazu bieten sich drei Abende Inspiration. IoT, Produktentwicklung und das digitale Vorarlberg sind die Themen zu denen in der Hackathonwoche eingeladen wird.<br/>
+Ein Hackathon allein ist nicht genug. Wir wollen, dass die Community bis unter die Fingernägel motiviert und mit einem Rucksack voller Ideen in den Hackathon startet. Dazu bieten wir drei Abende Inspiration. IoT, Produktentwicklung und das digitale Vorarlberg sind die Themen zu denen in der Hackathonwoche eingeladen wird.<br/>
 Der Eintritt ist jeweils frei.
 
 <div id="iot" class="row event-list m-y-1 p-y-1">
