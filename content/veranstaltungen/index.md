@@ -58,7 +58,7 @@ date = "2015-10-02T21:49:20+02:00"
 		</div>
 		<div class="row">
 			<div class="col-md-12">
-				<h3><a href="/veranstaltungen/konferenz">19:00 Konferenz @ TBD/Bregenz</a></h3>
+				<h3><a href="/veranstaltungen/konferenz">19:00 Konferenz @ Vorarlberg Museum Bregenz</a></h3>
 			</div>
 		</div>
 	</div>

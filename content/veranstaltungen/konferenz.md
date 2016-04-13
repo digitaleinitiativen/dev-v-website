@@ -122,7 +122,7 @@ Der Eintritt ist jeweils frei.
 		</div>
 		<div class="row">
 			<div class="col-md-12">
-				<h4>TBD/Bregenz</h4>
+				<h4>Vorarlberg Museum Bregenz</h4>
 			</div>
 		</div>
 	</div>
