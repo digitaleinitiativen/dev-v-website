@@ -28,3 +28,8 @@
  "name"  = "BMWFW"
  "url"   = "http://www.bmwfw.gv.at"
  "logo"  = "/img/partner/bmwfw.jpg"
+
+[[partner]]
+ "name"  = "JWV"
+ "url"   = "http://www.jwv.at"
+ "logo"  = "/img/partner/jwv.png"
