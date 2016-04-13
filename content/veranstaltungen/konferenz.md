@@ -10,7 +10,7 @@ date = "2015-10-02T21:49:20+02:00"
 Ein Hackathon ist nicht genug. Wir wollen, dass die Community bis unter die Fingernägel motiviert und mit einem Rucksack voller Ideen in den Hackathon geht. Dazu bieten wir an drei Abenden Inspiration. IoT, Produktentwicklung und das digitale Vorarlberg sind die drei Themen.<br/>
 Der Eintritt ist jeweils frei.
 
-<div class="row event-list m-y-1 p-y-1">
+<div id="iot" class="row event-list m-y-1 p-y-1">
 	<div class="col-md-4">
 		<div class="row m-b-1">
 			<div class="col-md-6 event-date">
@@ -58,7 +58,7 @@ Der Eintritt ist jeweils frei.
 		</p>
 	</div>
 </div>
-<div class="row event-list m-y-1 p-y-1">
+<div id="produkt" class="row event-list m-y-1 p-y-1">
 
 	<div class="col-md-4">
 		<div class="row m-b-1">
@@ -105,7 +105,7 @@ Der Eintritt ist jeweils frei.
 		</p>
 	</div>
 </div>
-<div class="row event-list m-y-1 p-y-1">
+<div id="vorarlberg" class="row event-list m-y-1 p-y-1">
 	<div class="col-md-4">
 		<div class="row m-b-1">
 			<div class="col-md-6 event-date">
