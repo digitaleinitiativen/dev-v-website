@@ -124,7 +124,7 @@ Der Eintritt ist jeweils frei.
 	<div class="col-md-8">
 		<h3>#vorarlberg - Bereit für die digitale Disruption?</h3>
 		<p>
-			Die noch digitale Szene in Vorarlberg sorgt in letzter Zeit für Furore. Eine vielzahl an Veranstaltungen und erfolgreiche Startups sind nur ein Indikator dafür. Doch wo ist neben großen, traditionsreichen Unternehmen Platz für die jungen Wilden? Wir haben dazu einige Experten geladen die darüber diskutieren werden.
+			Die digitale Szene in Vorarlberg sorgt in letzter Zeit immer mehr für Furore. Eine vielzahl an Veranstaltungen und erfolgreiche Startups sind nur ein Indikator dafür. Doch wo ist neben großen, traditionsreichen Unternehmen Platz für die jungen Wilden? Wir haben dazu einige Experten geladen die darüber diskutieren werden.
 		</p>
 	</div>
 </div>
