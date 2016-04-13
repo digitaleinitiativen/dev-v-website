@@ -7,7 +7,7 @@ date = "2015-10-02T21:49:20+02:00"
 
 ## Umma hüsla Konferenz
 
-Ein Hackathon ist nicht genug. Wir wollen, dass die Community bis unter die Fingernägel motiviert und mit einem Rucksack voller Ideen in den Hackathon geht. Dazu bieten wir an drei Abenden Inspiration. IoT, Produktentwicklung und das digitale Vorarlberg sind die drei Themen.<br/>
+Ein Hackathon allein ist nicht genug. Wir wollen, dass die Community bis unter die Fingernägel motiviert und mit einem Rucksack voller Ideen in den Hackathon startet. Dazu bieten sich drei Abende Inspiration. IoT, Produktentwicklung und das digitale Vorarlberg sind die Themen zu denen in der Hackathonwoche eingeladen wird.<br/>
 Der Eintritt ist jeweils frei.
 
 <div id="iot" class="row event-list m-y-1 p-y-1">
@@ -29,7 +29,7 @@ Der Eintritt ist jeweils frei.
 	<div class="col-md-8">
 		<h3>Umma hüsla Eröffnung - Internet of Things</h3>
 		<p>
-			Internet of Things. Das Thema das uns nicht nur die Woche über beschäftigt, sondern auch am Abend der Eröffnung. Für viele ist das Thema noch wenig greifbar, wir haben Leute eingeladen die IoT leben.
+			Internet of Things. Das Thema, das uns nicht nur die Woche über beschäftigt, sondern auch am Eröffnungsabend. Für viel zu viele ist das Thema noch wenig greifbar. Wir haben jedoch jene Speaker eingeladen, die IoT leben und Impuls und Inhalt geben werden.
 		</p>
 	</div>
 </div>
@@ -45,7 +45,7 @@ Der Eintritt ist jeweils frei.
 	<div class="col-md-8">
 		<h5>Keynote: Internet of Lights - An Open System Approach to IoT Connected Lightning<br/>Dr. Abhinav Somaraju, System Architect IoT, <a href="http://www.tridonic.com/">Tridonic GmbH &amp; Co KG</a>, Dornbirn </h5>
 		<p>
-			Das Internet der Dinge ist die technologische Revolution unserer Zeit und wird all unsere Geräte intelligent vernetzen.  Werden diese in Zukunft über unser Lichtsystem miteinander kommunizieren, von der elektrischen Jalousie, zur Heizung bis hin zum Backofen? Zumtobel Group forscht an diesen Möglichkeiten und Dr. Somaraju wird uns einen Einblick in die Zukunft vernetzter Gebäude geben.
+			Das Internet der Dinge ist die technologische Revolution unserer Zeit und vernetzt bzw. wird all unsere Gerätschaften intelligent vernetzen. Werden diese in Zukunft über unser Lichtsystem miteinander kommunizieren, von der elektrischen Jalousie, zur Heizung bis hin zum Backofen? Zumtobel Group forscht an diesen Möglichkeiten und Dr. Somaraju wird uns Einblick in die Zukunft digital vernetzter Gebäude geben.
 		</p>
 	</div>
 </div>
@@ -54,7 +54,7 @@ Der Eintritt ist jeweils frei.
 	<div class="col-md-8">
 		<h5>Wie Entwickelt Man Ein IoT Geschäftsmodell<br/>Markus Weinberger, <a href="http://www.iot-lab.ch/">Director of Bosch IoT Lab</a></h5>
 		<p>
-			Mit der Vorstellung ihrer eigenen IoT-Cloud, haben Bosch eindrucksvoll gezeigt, dass das Internet der Dinge mehr als nur ein Buzzword, ja gar die Zukunft ist. Bis 2020 sollen alle ihre Produkte an diese angeschlossen sein. Herr Weinberger forscht für Bosch im eigenen IoT Lab an der Universität St. Gallen und wird uns erzählen wie man ein IoT Geschäftsmodell entwickelt, warum IoT neue Geschäftsmodelle erfordert und welches die wichtigsten Schritte sind.
+			Mit der Vorstellung ihrer eigenen IoT-Cloud haben Bosch eindrucksvoll gezeigt, dass das Internet der Dinge mehr als nur ein Buzzword, sondern gar die Zukunft ist. Bis 2020 sollen alle ihre Produkte an diese angeschlossen sein. Herr Weinberger forscht für Bosch im eigenen IoT Lab an der Universität St. Gallen und wird uns erzählen, wie man ein IoT Geschäftsmodell entwickelt, warum IoT neue Geschäftsmodelle erfordert und welches die elementären Schritte auf dem Weg dahin sind.
 		</p>
 	</div>
 </div>
@@ -78,10 +78,9 @@ Der Eintritt ist jeweils frei.
 	<div class="col-md-8">
 		<h3 id="produkt">Der Pfad zum digitalen Produkt</h3>
 		<p>
-			Nie war es einfacher ein Produkt zu schaffen.<br/>
-			Nie war es schwerer.<br/>
-			Alles was man braucht ist ein Laptop ein Internetanschluss und ein Kühlschrank voller Fritz Cola. Alles was man braucht ist jede Menge UI, UX, SEO, AJAX, IDE, OSS usw.<br/>
-			Wir haben Leute gefunden, die das bravurös gemeistert haben und ein erfolgreiches, digitales Produkt betreiben. An diesem Abend erzählen sie uns ihre Geschichte.
+			Nie war es einfacher ein Produkt auf den Markt zu bringen. Und gleichzeitig war es nie schwerer. Was man braucht ist ein Laptop, ein Internetanschluss und ein Kühlschrank voller Fritz Cola, Club Mate und Co. Dazu jede Menge UI, UX, SEO, AJAX, IDE, OSS & USW. Wir haben drei Speaker gefunden, die das eine, das andere und dazu die entscheidende Vision und heute als Ergebnis den entsprechenden Erfolg mitbringen.
+			
+			Geschichten, wie sie auch unseren Speakern mehr als bekannt vorkommen. Schließlich waren sie mindestens einmal mittendrin, statt nur live dabei.
 		</p>
 	</div>
 </div>
@@ -90,9 +89,9 @@ Der Eintritt ist jeweils frei.
 	<div class="col-md-8">
 	<h5><a href="https://twitter.com/__tosh">Thomas Schranz</a>, <a href="http://blossom.io">Blossom.io</a></h5>
 		<p>
-			Firmen wie Twitter, Facebook, Apple, Spotify, Netflix und die NASA haben nicht nur Teams über die ganze Welt verteilt sondern sind auch Kunden von Blossom.<br/>
-			Blossom ist ein Project Tracking Tool das speziell auf die extremen Anforderungen von global verteilten Firmen ausgerichtet ist.<br/>
-			Das war aber nicht von Anfang an so. Da gabs nämlich gar keine zahlenden Kunden und es war auch nicht so klar für wen Blossom eigentlich ideal geeignet wäre. Thomas erzählt uns wie Blossom von einer Idee zu einem populären Project Tracking Tool für die führenden Software Unternehmen weltweit geworden ist.
+		Unternehmen wie Twitter, Facebook, Apple, Spotify, Netflix und die NASA haben nicht nur Teams über die ganze Welt verteilt sondern sind auch Kunden von Blossom.
+Blossom ist ein Project Tracking Tool, das speziell auf die extremen Anforderungen von global organisierten Unternehmen ausgerichtet ist.
+Das war nicht von Anfang an so. Thomas erzählt wie Blossom aus der Idee ein populäres Project Tracking Tool für führende Unternehmen weltweit geworden ist.
 		</p>
 	</div>
 </div>
@@ -101,7 +100,7 @@ Der Eintritt ist jeweils frei.
 	<div class="col-md-8">
 		<h5><a href="https://twitter.com/jollife">Johannes Nagl</a>, <a href="http://swat.io">Swat.io</a></h5>
 		<p>
-			Einst die erfolgreichsten Facebook Entwickler des Landes mit allen großen österreichischen Unternehmen als Kunden haben sich die Socialisten dazu entschieden ihre Strategie um 180 Grad zu ändern und entwickeln nun mit Walls.io und Swat.io ihre eigenen Produkte. Johannes Nagl ist CTO und seit Jahren bei den Socialisten. Er hat den Wandel der Agentur live miterlebt und mitgestaltet und hat viel zu berichten.
+			Einst die erfolgreichsten Facebook Entwickler des Landes mit allen großen österreichischen Unternehmen als Kunden haben sich die Socialisten dazu entschieden ihre Strategie um 180 Grad zu ändern und entwickeln nun mit Walls.io und Swat.io ihre eigenen Produkte. Johannes Nagl ist CTO und seit Jahren bei den Socialisten. Er hat den Wandel der Agentur live miterlebt und mitgestaltet.
 		</p>
 	</div>
 </div>
@@ -124,7 +123,7 @@ Der Eintritt ist jeweils frei.
 	<div class="col-md-8">
 		<h3>#vorarlberg - Bereit für die digitale Disruption?</h3>
 		<p>
-			Die digitale Szene in Vorarlberg sorgt in letzter Zeit immer mehr für Furore. Eine vielzahl an Veranstaltungen und erfolgreiche Startups sind nur ein Indikator dafür. Doch wo ist neben großen, traditionsreichen Unternehmen Platz für die jungen Wilden? Wir haben dazu einige Experten geladen die darüber diskutieren werden.
+			Die digitale Szene in Vorarlberg sorgt für immer mehr Furore. Erfolgreiche Startups "made im Ländle" sind nur ein Indikator dafür, dass man den digitalen Kinderschuhen längst entwachsen ist. Doch wie steht es neben großen, etablierten Unternehmen um die jungen Wilden? Wir haben  Experten geladen, die sich dazu ihre Gedanken machen sollen und werden.
 		</p>
 	</div>
 </div>
@@ -134,7 +133,7 @@ Der Eintritt ist jeweils frei.
 	<h5>Impulsvortrag: Digitale Assistenzsysteme<br/>Christian Kittl, <a href="https://www.evolaris.net/">Managing Director Evloaris</a></h5>
 		<p>
 			<!-- 
-			Die riesige Menge an Daten die nicht zuletzt durch IoT generiert wird, ermöglicht durch geschickte Analyse das zielgerichtete Leiten von Servicekräfte, Konsumenten und Technikern. Intelligente Brillen, Uhren und Telefone unterstützen uns dabei. Wo die Technologie gerade steht und welches IT-Ökosystem dazu notwendig ist wird uns Christian Kittl von Evolaris schildern.
+			Die riesige Menge an Daten die nicht zuletzt durch IoT generiert wird, ermöglicht durch geschickte Analyse das zielgerichtete Leiten von Servicekräften, Konsumenten und Technikern. Intelligente Brillen, Uhren und Telefone unterstützen uns dabei. Wo die Technologie gerade steht und welches IT-Ökosystem dazu notwendig ist, wird uns Christian Kittl von Evolaris schildern.
 			-->
 		</p>
 	</div>
