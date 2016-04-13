@@ -28,6 +28,11 @@
 	"url"	= "http://www.smart-textiles.com/"
 	"logo"	= "/img/sponsors/smart-textiles_bw.jpg"
 
+	[[package.sponsor]]
+	"name"	= "IBM"
+	"url"	= "http://www.ibm.com/"
+	"logo"	= "/img/sponsors/ibm.png"
+
 [[package]]
 "name"	= "Gainsboro"
 "class"	= "gainsboro"

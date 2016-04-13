@@ -22,7 +22,7 @@ Der Eintritt ist jeweils frei.
 		</div>
 		<div class="row">
 			<div class="col-md-12">
-				<h4>FH Vorarlberg</h4>
+				<h4>FH Vorarlberg Dornbirn</h4>
 			</div>
 		</div>
 	</div>
@@ -33,31 +33,26 @@ Der Eintritt ist jeweils frei.
 		</p>
 	</div>
 </div>
-<div class="row">
+<div class="row m-b-1">
 	<div class="col-md-2 col-md-offset-2">
 	</div>
 	<div class="col-md-8">
-		<h5>Eröffnungsrede Team Umma hüsla</h5>
-		<p>
-			10 Minuten in denen die Damen und Herren der Digitalen Initiativen die Bühne betreten und über Thema und Motivation sprechen. Danke wird vermutlich auch jemand das ein oder andere Mal sagen.
-		</p>
+		<h5>Eröffnung Umma hüsla Hackathon</h5>
 	</div>
 </div>
 <div class="row">
-	<div class="col-md-2 col-md-offset-2">
-	</div>
+	<div class="col-md-2 col-md-offset-2"><img class="img-fluid" src="/img/speaker/abhinav.jpg" /></div>
 	<div class="col-md-8">
-		<h5>Keynote Dr. Abhinav Somaraju, System Architect IoT, <a href="http://www.tridonic.com/">Tridonic GmbH &amp; Co KG</a>, Dornbirn </h5>
+		<h5>Keynote: Internet of Lights - An Open System Approach to IoT Connected Lightning<br/>Dr. Abhinav Somaraju, System Architect IoT, <a href="http://www.tridonic.com/">Tridonic GmbH &amp; Co KG</a>, Dornbirn </h5>
 		<p>
 			Das Internet der Dinge ist die technologische Revolution unserer Zeit und wird all unsere Geräte intelligent vernetzen.  Werden diese in Zukunft über unser Lichtsystem miteinander kommunizieren, von der elektrischen Jalousie, zur Heizung bis hin zum Backofen? Zumtobel Group forscht an diesen Möglichkeiten und Dr. Somaraju wird uns einen Einblick in die Zukunft vernetzter Gebäude geben.
 		</p>
 	</div>
 </div>
 <div class="row">
-	<div class="col-md-2 col-md-offset-2">
-	</div>
+	<div class="col-md-2 col-md-offset-2"><img class="img-fluid" src="/img/speaker/markus.jpg" /></div>
 	<div class="col-md-8">
-		<h5>Markus Weinberger, <a href="http://www.iot-lab.ch/">Director of Bosch IoT Lab</a></h5>
+		<h5>Wie Entwickelt Man Ein IoT Geschäftsmodell<br/>Markus Weinberger, <a href="http://www.iot-lab.ch/">Director of Bosch IoT Lab</a></h5>
 		<p>
 			Mit der Vorstellung ihrer eigenen IoT-Cloud, haben Bosch eindrucksvoll gezeigt, dass das Internet der Dinge mehr als nur ein Buzzword, ja gar die Zukunft ist. Bis 2020 sollen alle ihre Produkte an diese angeschlossen sein. Herr Weinberger forscht für Bosch im eigenen IoT Lab an der Universität St. Gallen und wird uns erzählen wie man ein IoT Geschäftsmodell entwickelt, warum IoT neue Geschäftsmodelle erfordert und welches die wichtigsten Schritte sind.
 		</p>
@@ -127,9 +122,30 @@ Der Eintritt ist jeweils frei.
 		</div>
 	</div>
 	<div class="col-md-8">
-		<h4>Quo vadis digitales Vorarlberg</h4>
+		<h3>#vorarlberg - Bereit für die digitale Disruption?</h3>
 		<p>
-			Die noch überschaubare digitale Szene in Vorarlberg sorgt in letzter Zeit durchaus für Furore. Veranstaltungen und erfolgreiche Startups sind nur ein Indikator dafür. Doch wo ist neben großen, traditionsreichen Unternehmen Platz für neuartige Technologie? Wir diskutieren darüber.
+			Die noch digitale Szene in Vorarlberg sorgt in letzter Zeit für Furore. Eine vielzahl an Veranstaltungen und erfolgreiche Startups sind nur ein Indikator dafür. Doch wo ist neben großen, traditionsreichen Unternehmen Platz für die jungen Wilden? Wir haben dazu einige Experten geladen die darüber diskutieren werden.
+		</p>
+	</div>
+</div>
+<div class="row">		
+	<div class="col-md-2 col-md-offset-2"><img class="img-fluid" src="/img/speaker/christian.jpg" /></div>
+	<div class="col-md-8">
+	<h5>Impulsvortrag: Digitale Assistenzsysteme<br/>Christian Kittl, <a href="https://www.evolaris.net/">Managing Director Evloaris</a></h5>
+		<p>
+			<!-- 
+			Die riesige Menge an Daten die nicht zuletzt durch IoT generiert wird, ermöglicht durch geschickte Analyse das zielgerichtete Leiten von Servicekräfte, Konsumenten und Technikern. Intelligente Brillen, Uhren und Telefone unterstützen uns dabei. Wo die Technologie gerade steht und welches IT-Ökosystem dazu notwendig ist wird uns Christian Kittl von Evolaris schildern.
+			-->
+		</p>
+	</div>
+</div>
+<div class="row m-t-1">		
+	<div class="col-md-2 col-md-offset-2"></div>
+	<div class="col-md-8">
+	<h5>Podiumsdiskussion</h5>
+		<p>
+			Wir bringen einige interessante Personen mit unterschiedlichem Hintergrund zusammen, die gemeinsam über die digitale Zukunft von Vorarlberg diskutieren werden.<br/>
+			Darunter <a href="https://www.youtube.com/watch?v=9rbT4Po0b_U">Regine Bolter</a> von der <a href="https://www.fhv.at">FH Vorarlberg</a>, <a href="https://twitter.com/ckittl">Christian Kittl</a> von <a href="https://www.evolaris.net/en/">Evolaris</a> und weitere. Moderation durch <a href="https://twitter.com/stefan_hagen">Stefan Hagen</a>.
 		</p>
 	</div>
 </div>
