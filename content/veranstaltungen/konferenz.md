@@ -100,7 +100,7 @@ Das war nicht von Anfang an so. Thomas erzählt wie Blossom aus der Idee ein pop
 	<div class="col-md-8">
 		<h5><a href="https://twitter.com/jollife">Johannes Nagl</a>, <a href="http://swat.io">Swat.io</a></h5>
 		<p>
-			Einst die erfolgreichsten Facebook Entwickler des Landes mit allen großen österreichischen Unternehmen als Kunden haben sich die Socialisten dazu entschieden ihre Strategie um 180 Grad zu ändern und entwickeln nun mit Walls.io und Swat.io ihre eigenen Produkte. Johannes Nagl ist CTO und seit Jahren bei den Socialisten. Er hat den Wandel der Agentur live miterlebt und mitgestaltet.
+			Einst die erfolgreichsten Facebook Entwickler des Landes, mit allen großen österreichischen Unternehmen als Kunden, haben sich die Socialisten dazu entschieden ihre Strategie um 180 Grad zu ändern und entwickeln nun mit Walls.io und Swat.io ihre eigenen Produkte. Johannes Nagl ist CTO und seit Jahren bei den Socialisten. Er hat den Wandel der Agentur live miterlebt und mitgestaltet.
 		</p>
 	</div>
 </div>
