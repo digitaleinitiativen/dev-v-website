@@ -19,6 +19,19 @@ date = "2015-10-02T21:49:20+02:00"
 </div>
 <div class="row event-list m-y-1 p-y-1">
 	<div class="col-md-3 event-date">
+		<h3>4. Mai</h3>
+	</div>
+	<div class="col-md-9">
+		<div class="row">
+			<div class="col-md-12">
+				<h3><a href="/veranstaltungen/iot-workshop">13:00 IoT Setup Workshop von IBM
+ @ Campus V // Coworking Dornbirn</a></h3>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="row event-list m-y-1 p-y-1">
+	<div class="col-md-3 event-date">
 		<h3>17. Mai</h3>
 	</div>
 	<div class="col-md-9">

@@ -8,7 +8,7 @@ date = "2015-10-02T21:49:20+02:00"
 ## Umma hüsla Konferenz
 
 Ein Hackathon allein ist nicht genug. Wir wollen, dass die Community bis unter die Fingernägel motiviert und mit einem Rucksack voller Ideen in den Hackathon startet. Dazu bieten wir drei Abende Inspiration. IoT, Produktentwicklung und das digitale Vorarlberg sind die Themen zu denen in der Hackathonwoche eingeladen wird.<br/>
-Der Eintritt ist jeweils frei.
+Der Eintritt ist jeweils frei. Bitte für den jeweiligen Event anmelden.
 
 <div id="iot" class="row event-list m-y-1 p-y-1">
 	<div class="col-md-4">
@@ -23,6 +23,9 @@ Der Eintritt ist jeweils frei.
 		<div class="row">
 			<div class="col-md-12">
 				<h4>FH Vorarlberg Dornbirn</h4>
+			</div>
+			<div class="col-md-12">
+				<a href="https://www.eventbrite.com/e/umma-husla-eroffnung-internet-of-things-tickets-24786803998">Anmeldung</a>
 			</div>
 		</div>
 	</div>
@@ -58,6 +61,11 @@ Der Eintritt ist jeweils frei.
 		</p>
 	</div>
 </div>
+<div class="row">
+	<div class="col-md-8 col-md-offset-4">
+		Anmeldung zur Eröffnung unter <a href="https://www.eventbrite.com/e/umma-husla-eroffnung-internet-of-things-tickets-24786803998">https://www.eventbrite.com/e/umma-husla-eroffnung-internet-of-things-tickets-24786803998</a>
+	</div>
+</div>
 <div id="produkt" class="row event-list m-y-1 p-y-1">
 
 	<div class="col-md-4">
@@ -72,6 +80,9 @@ Der Eintritt ist jeweils frei.
 		<div class="row">
 			<div class="col-md-12">
 				<h4>Altes Hallenbad Feldkirch</h4>
+			</div>
+			<div class="col-md-12">
+				<a href="https://www.eventbrite.com/e/der-pfad-zum-digitalen-produkt-offentlicher-vortrag-tickets-24787148027">Anmeldung</a>
 			</div>
 		</div>
 	</div>
@@ -104,6 +115,11 @@ Das war nicht von Anfang an so. Thomas erzählt wie Blossom aus der Idee ein pop
 		</p>
 	</div>
 </div>
+<div class="row">
+	<div class="col-md-8 col-md-offset-4">
+		Anmeldung unter <a href="https://www.eventbrite.com/e/der-pfad-zum-digitalen-produkt-offentlicher-vortrag-tickets-24787148027">https://www.eventbrite.com/e/der-pfad-zum-digitalen-produkt-offentlicher-vortrag-tickets-24787148027</a>
+	</div>
+</div>
 <div id="vorarlberg" class="row event-list m-y-1 p-y-1">
 	<div class="col-md-4">
 		<div class="row m-b-1">
@@ -117,6 +133,9 @@ Das war nicht von Anfang an so. Thomas erzählt wie Blossom aus der Idee ein pop
 		<div class="row">
 			<div class="col-md-12">
 				<h4>Vorarlberg Museum Bregenz</h4>
+			</div>
+			<div class="col-md-12">
+				<a href="https://www.eventbrite.com/e/vorarlberg-bereit-fur-die-digitale-disruption-tickets-24787393762">Anmeldung</a>
 			</div>
 		</div>
 	</div>
@@ -146,5 +165,10 @@ Das war nicht von Anfang an so. Thomas erzählt wie Blossom aus der Idee ein pop
 			Wir bringen einige interessante Personen mit unterschiedlichem Hintergrund zusammen, die gemeinsam über die digitale Zukunft von Vorarlberg diskutieren werden.<br/>
 			Darunter <a href="https://www.youtube.com/watch?v=9rbT4Po0b_U">Regine Bolter</a> von der <a href="https://www.fhv.at">FH Vorarlberg</a>, <a href="https://twitter.com/ckittl">Christian Kittl</a> von <a href="https://www.evolaris.net/en/">Evolaris</a> und weitere. Moderation durch <a href="https://twitter.com/stefan_hagen">Stefan Hagen</a>.
 		</p>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-8 col-md-offset-4">
+		Anmeldung unter <a href="https://www.eventbrite.com/e/vorarlberg-bereit-fur-die-digitale-disruption-tickets-24787393762">https://www.eventbrite.com/e/vorarlberg-bereit-fur-die-digitale-disruption-tickets-24787393762</a>
 	</div>
 </div>
