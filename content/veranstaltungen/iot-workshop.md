@@ -22,7 +22,9 @@ Von 20. bis 21. Mai findet der Umma Hüsla Hackathon am CAMPUS V statt. Das Mott
 Das technische Setup ist wichtig damit du beim Hackathon gut arbeiten kannst. Der IoT Setup-Workshop schafft eine erste Basis für die Nutzung von Geräten wie dem Raspberry PI, einem GroovePI Board und der IBM BlueMix Cloud Plattform. In der Session wird ein RaspberryPI mit Sensoren ausgestattet und die Daten werden in die Cloud geschrieben, ausgewertet und  wieder ausgegeben.
 
 Wann & Wo?
-Donnerstag 4.5.2016
-13.00 – 17.00 Uhr, CAMPUS V Coworking
+
+Mittwoch 4.5.2016
+
+13.00 – 17.00 Uhr, Gelbe Fabrik, Dornbirn
 
 **&rarr; Hier geht es zur <a href="https://docs.google.com/forms/d/1V5zjMFNeLScqqPOr8fD5ecOC_mEN-oHYpwcZ84HZYx0/viewform" target="new">Anmeldung</a>.**
