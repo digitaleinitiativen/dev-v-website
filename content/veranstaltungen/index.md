@@ -25,7 +25,7 @@ date = "2015-10-02T21:49:20+02:00"
 		<div class="row">
 			<div class="col-md-12">
 				<h3><a href="/veranstaltungen/iot-workshop">13:00 IoT Setup Workshop von IBM
- @ Campus V // Coworking Dornbirn</a></h3>
+ @ Gelbe Fabrik Dornbirn</a></h3>
 			</div>
 		</div>
 	</div>
