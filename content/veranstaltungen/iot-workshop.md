@@ -25,6 +25,7 @@ Wann & Wo?
 
 Mittwoch 4.5.2016
 
-13.00 – 17.00 Uhr, Gelbe Fabrik, Dornbirn
+13.00 – 17.00 Uhr, Die Gelbe Fabrik - Coworking - Widagasse 11, 6850 Dornbirn
+
 
 **&rarr; Hier geht es zur <a href="https://docs.google.com/forms/d/1V5zjMFNeLScqqPOr8fD5ecOC_mEN-oHYpwcZ84HZYx0/viewform" target="new">Anmeldung</a>.**
