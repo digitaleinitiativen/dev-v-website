@@ -1,10 +1,10 @@
-<div class="row">
+<div class="row m-b-1">
 	<div class="col-md-10">
 		<h2 itemprop="name">
 			<a class="archive-article-title" href="{{ .Permalink }}">{{ .Title }}</a>
 		</h2>
 		<div class="archive-article-date">
-		    <small>Veröffentlicht am <time datetime="{{ .Date }}" itemprop="datePublished">{{ .Date.Format .Site.Params.date_format }}</time> in {{ delimit .Params.categories ", " }} </small>
+		    <small>Veröffentlicht am <time datetime="{{ .Date }}" itemprop="datePublished">{{ .Date.Format .Site.Params.date_format }}</time> in {{ delimit .Params.categories ", " }} von {{ .Params.writer }}</small>
 		</div>
 		<div>
 			{{ .Description }}
@@ -14,10 +14,8 @@
 		</div>
 	</div>
 	<div class="col-md-2">
-		{{ if and (isset .Params "images") (.Params.Images) }}
 			{{ range .Params.Images }}
 				<img src="{{ . }}" class="img-fluid" />
 			{{ end }}
-		{{ end }}
 	</div>
 </div>

@@ -9,6 +9,7 @@ menu = ""
 tags = []
 title = "2. Umma hüsla Hackathon Extendeded - Connecting EveryTHING"
 slug = "willkommen-uh"
+writer = "Johannes Moser"
 +++
 
 
