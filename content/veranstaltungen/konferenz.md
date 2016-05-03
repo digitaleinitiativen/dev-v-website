@@ -161,7 +161,7 @@ Digitalisierung bedeutet Change auf allen Unternehmensebenen. Wie steht es um di
 	<h5>Podiumsdiskussion</h5>
 		<p>
 			Wir bringen einige interessante Personen mit unterschiedlichem Hintergrund zusammen, die gemeinsam über die digitale Zukunft von Vorarlberg diskutieren werden.<br/>
-			Darunter <a href="https://www.youtube.com/watch?v=9rbT4Po0b_U">Regine Bolter</a> von der <a href="https://www.fhv.at">FH Vorarlberg</a>, <a href="https://twitter.com/ckittl">Christian Kittl</a> von <a href="https://www.evolaris.net/en/">Evolaris</a> und weitere. Moderation durch <a href="https://twitter.com/stefan_hagen">Stefan Hagen</a>.
+			Darunter <a href="https://www.youtube.com/watch?v=9rbT4Po0b_U">Regine Bolter</a> von der <a href="https://www.fhv.at">FH Vorarlberg</a>, Hannes Walter von <a href="https://www.evolaris.net/en/">Evolaris</a> und weitere. Moderation durch <a href="https://twitter.com/stefan_hagen">Stefan Hagen</a>.
 		</p>
 	</div>
 </div>
