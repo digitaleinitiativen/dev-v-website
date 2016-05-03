@@ -11,9 +11,9 @@ categories = ["Umma hüsla", "IoT"]
 
 # Elektronik für das Volk
 
-Elektronik. Elektronik. Elektronik. Die ersten Teams, die sich noch anmelden und schon angemeldet haben, können bei uns einen Arduino Leonardo mit einem dazu passenden Shield, auf dem ein Bosch 9 Achsen Chip verbaut ist, erfragen. Wir haben davon zehn und stellen die für den Hackathon gerne zur Verfügung.
+Elektronik. Elektronik. Elektronik. Die ersten Teams, welche sich bereits angemeldet haben oder noch anmelden mögen, können bei uns einen Arduino Leonardo mit dem dazu passenden Shield, auf dem ein Bosch 9 Achsen Chip verbaut ist, erfragen. Wir haben derer zehn und stellen diese gerne für den Hackathon zur Verfügung.
 
-Zusätzlich verlosen wir auf der Event Seite Particles.
+Zusätzlich verlosen wir auf der Webseite Particles.
 
 ## Wie kommen wir an einen Arduino?
 
@@ -25,7 +25,7 @@ Zusätzlich verlosen wir auf der Event Seite Particles.
 1. Auf der [Umma hüsla Seite anmelden](http://uh.digitaleinitiativen.at/ummahuesla/).
 2. Diesen [Facebook Post kommentieren](https://www.facebook.com/events/752299221572583/permalink/807319059403932/).
 
-Es gibt viele Gründe dafür bei der Verlosung mit zu machen einige sind:
+Es gibt viele Gründe dafür, bei der Verlosung mitzumachen einige sind:
 
 * Man muss sich erst anmelden.
 * Man kann nie genug Elektronik haben.
