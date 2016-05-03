@@ -147,13 +147,11 @@ Das war nicht von Anfang an so. Thomas erzählt wie Blossom aus der Idee ein pop
 	</div>
 </div>
 <div class="row">		
-	<div class="col-md-2 col-md-offset-2"><img class="img-fluid" src="/img/speaker/christian.jpg" /></div>
+	<div class="col-md-2 col-md-offset-2"><img class="img-fluid" src="/img/speaker/hannes.jpg" /></div>
 	<div class="col-md-8">
-	<h5>Impulsvortrag: Digitale Assistenzsysteme<br/>Christian Kittl, <a href="https://www.evolaris.net/">Managing Director Evloaris</a></h5>
+	<h5>Impulsvortrag: Digitalisierung bedeutet Change<br/>Hannes Walter, <a href="https://www.evolaris.net/">Leitung Smart Production & Services Evolaris</a></h5>
 		<p>
-			<!-- 
-			Die riesige Menge an Daten die nicht zuletzt durch IoT generiert wird, ermöglicht durch geschickte Analyse das zielgerichtete Leiten von Servicekräften, Konsumenten und Technikern. Intelligente Brillen, Uhren und Telefone unterstützen uns dabei. Wo die Technologie gerade steht und welches IT-Ökosystem dazu notwendig ist, wird uns Christian Kittl von Evolaris schildern.
-			-->
+Digitalisierung bedeutet Change auf allen Unternehmensebenen. Wie steht es um die Mitarbeiterakzeptanz im Unternehmen wenn sich Jobprofile plötzlich verändern, vollkommen neue Kompetenzen gefordert sind oder Jobs wegfallen? Wie und wann akzeptieren Mitarbeiter Datenbrillen und wie sieht es dabei mit dem Datenschutz aus? Welche Bedenken gibt es bei Kunden bezüglich Datensammlung, Security und Datenauswertung? Und welche Herangehensweise ist für all diese Herausforderungen sinnvoll?
 		</p>
 	</div>
 </div>
