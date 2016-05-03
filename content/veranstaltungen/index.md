@@ -95,6 +95,11 @@ date = "2015-10-02T21:49:20+02:00"
 	<div class="col-md-9">
 		<div class="row">
 			<div class="col-md-12">
+				<h3><a href="/veranstaltungen/kidsworkshop">08:00 Kids-Workshop, Die Stadt der Erleuchtung @ Campus V</a></h3>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-12">
 				<h3><a href="/ummahuesla">bis 20:00 Umma huesla Hackathon @ CAMPUS V // designforum Dornbirn</a></h3>
 			</div>
 		</div>
