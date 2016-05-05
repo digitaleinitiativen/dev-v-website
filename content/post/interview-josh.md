@@ -17,7 +17,7 @@ Josh war früher Metalhead bei Experience. Jetzt macht sein "Head" nicht mehr mi
 
 __Du reist extra mit einem Team aus Wien an. Woher kommt die Motivation?__
 
-Wir sind alle ziemlich motviert Neues auszuprobieren und die Herausforderung in 28h eine Idee umzusetzten reizt uns. Außerdem verfolgt uns das Thema IoT seit der Ankündigung auch sonst (diverse FH Projekte) und hat schon zu einigen interessanten Ideen geführt.
+Wir sind alle ziemlich motiviert Neues auszuprobieren und die Herausforderung in 28h eine Idee umzusetzen reizt uns. Außerdem verfolgt uns das Thema IoT seit der Ankündigung auch sonst (diverse FH Projekte) und hat schon zu einigen interessanten Ideen geführt.
 
 __Hast Du schon eine Projektidee?__
 
