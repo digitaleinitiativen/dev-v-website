@@ -46,7 +46,7 @@ Der Eintritt ist jeweils frei. Bitte für den jeweiligen Event anmelden.
 <div class="row">
 	<div class="col-md-2 col-md-offset-2"><img class="img-fluid" src="/img/speaker/abhinav.jpg" /></div>
 	<div class="col-md-8">
-		<h5>Keynote: Internet of Lights - An Open System Approach to IoT Connected Lightning<br/>Dr. Abhinav Somaraju, System Architect IoT, <a href="http://www.tridonic.com/">Tridonic GmbH &amp; Co KG</a>, Dornbirn </h5>
+		<h5>Keynote: Internet of Lights - An Open System Approach to IoT Connected Lighting<br/>Dr. Abhinav Somaraju, System Architect IoT, <a href="http://www.tridonic.com/">Tridonic GmbH &amp; Co KG</a>, Dornbirn </h5>
 		<p>
 			Das Internet der Dinge ist die technologische Revolution unserer Zeit und vernetzt bzw. wird all unsere Gerätschaften intelligent vernetzen. Werden diese in Zukunft über unser Lichtsystem miteinander kommunizieren, von der elektrischen Jalousie, zur Heizung bis hin zum Backofen? Zumtobel Group forscht an diesen Möglichkeiten und Dr. Somaraju wird uns Einblick in die Zukunft digital vernetzter Gebäude geben.
 		</p>
