@@ -1,6 +1,6 @@
 +++
 date = "2016-05-09T23:49:56+02:00"
-title = 'Wir wollen die Stärke eines Handkantenschlages messen"'
+title = '"Wir wollen die Stärke eines Handkantenschlages messen"'
 writer = "Johannes Moser"
 description = "Phuc ist einer der Wenigen, der alle Veranstaltungen im Vorfeld besucht hat und auch in der Hackathon Woche haben wir schon viele Anmeldungen. Wir haben ihn gefragt ober keine anderen Freunde hat."
 images = []
