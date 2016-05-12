@@ -88,7 +88,7 @@ date = "2015-10-02T21:49:20+02:00"
 		</div>
 		<div class="row">
 			<div class="col-md-12">
-				<h3><a href="/ummahuesla">13:30 Umma huesla Hackathon @ CAMPUS V // designforum Dornbirn</a></h3>
+				<h3><a href="/ummahuesla">13:30 Start Umma huesla Hackathon @ CAMPUS V // designforum Dornbirn</a></h3>
 			</div>
 		</div>
 	</div>
@@ -105,7 +105,7 @@ date = "2015-10-02T21:49:20+02:00"
 		</div>
 		<div class="row">
 			<div class="col-md-12">
-				<h3><a href="/ummahuesla">bis 20:00 Umma huesla Hackathon @ CAMPUS V // designforum Dornbirn</a></h3>
+				<h3><a href="/ummahuesla">20:00 Ende Umma huesla Hackathon @ CAMPUS V // designforum Dornbirn</a></h3>
 			</div>
 		</div>
 		<div class="row">
