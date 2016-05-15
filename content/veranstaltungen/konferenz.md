@@ -107,6 +107,18 @@ Das war nicht von Anfang an so. Thomas erzählt wie Blossom aus der Idee ein pop
 	</div>
 </div>
 <div class="row">		
+	<div class="col-md-2 col-md-offset-2">
+		<img class="img-fluid m-b-1" src="/img/speaker/oli.jpg" />
+		<img class="img-fluid" src="/img/speaker/christopher.jpg" />
+	</div>
+	<div class="col-md-8">
+		<h5><a href="https://twitter.com/oliverruhm">Oliver Ruhm</a> und Christopher Robosch, <a href="http://www.zeughaus.com/">Zeughaus</a></h5>
+		<p>
+			Oliver Ruhm, Begründer von Zeughaus, ist mit seiner Designagentur bekannt für Arbeiten im Bereich User Experience- und User Interface Design – für browserbasierte Anwendungen und Mobile Apps. Die Stärke von Zeughaus liegt in der aktiven Mitarbeit in der Produktentwicklung und im soliden Gestaltungsergebnis. Zuletzt wurde ihr UX/UI für FastBill mit dem German Design Award in Gold ausgezeichnet. Ihr Kunde Protonet baut Private Cloud Server und entwickelt seit einem halben Jahr als Y-Combinator-Startup ein Smart Home Center. Wie bei allen Produkten von Protonet ist die Datenhoheit zentral. Protonet und Zeughaus arbeiten seit 2012 gemeinsam am Design der SOUL OS, dem browserbasierten Interface der Private Cloud Server. Und auch beim Smart Home Center ZOE ist Zeughaus für alle Interfaces zuständig. Seit 2014 ist Zeughaus- Designer Christopher Robosch mit dem Projekt betraut.
+		</p>
+	</div>
+</div>
+<div class="row">		
 	<div class="col-md-2 col-md-offset-2"><img class="img-fluid" src="/img/speaker/johannes.jpg" /></div>
 	<div class="col-md-8">
 		<h5><a href="https://twitter.com/jollife">Johannes Nagl</a>, <a href="http://swat.io">Swat.io</a></h5>
