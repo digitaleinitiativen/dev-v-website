@@ -191,7 +191,7 @@ Digitalisierung bedeutet Change auf allen Unternehmensebenen. Wie steht es um di
 				<a href="https://twitter.com/machineonthego">Christian Lutz</a>, CEO <a href="https://crate.io/">Crate.IO</a>
 			</li>
 			<li>
-				Moderation durch <a href="https://twitter.com/stefan_hagen">Stefan Hagen</a>, <a href="http://hgn.io">HGN.</a>.
+				Moderation durch <a href="https://twitter.com/stefan_hagen">Stefan Hagen</a>, <a href="http://hgn.io">HGN.</a>
 			</li>
 		</ul>
 		<p>
