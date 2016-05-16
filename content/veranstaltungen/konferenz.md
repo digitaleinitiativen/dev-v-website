@@ -172,8 +172,30 @@ Digitalisierung bedeutet Change auf allen Unternehmensebenen. Wie steht es um di
 	<div class="col-md-8">
 	<h5>Podiumsdiskussion</h5>
 		<p>
-			Wir bringen einige interessante Personen mit unterschiedlichem Hintergrund zusammen, die gemeinsam über die digitale Zukunft von Vorarlberg diskutieren werden.<br/>
-			Darunter <a href="https://www.youtube.com/watch?v=9rbT4Po0b_U">Regine Bolter</a> von der <a href="https://www.fhv.at">FH Vorarlberg</a>, Hannes Walter von <a href="https://www.evolaris.net/en/">Evolaris</a> und weitere. Moderation durch <a href="https://twitter.com/stefan_hagen">Stefan Hagen</a>.
+			Wir bringen einige interessante Personen mit unterschiedlichem Hintergrund zusammen, die gemeinsam über die digitale Zukunft von Vorarlberg diskutieren werden.
+		</p>
+		<ul>
+			<li>
+				<a href="https://www.youtube.com/watch?v=9rbT4Po0b_U">Regine Bolter</a>,  Studiengangsleiterin Informatik - Software and Information Engineering <a href="https://www.fhv.at">FH Vorarlberg</a>
+			</li>
+			<li>
+				Hannes Walter, <a href="https://www.evolaris.net/en/">Evolaris</a>
+			</li>
+			<li>
+				Olaf Hahn, <a href="http://ibm.com">IBM</a> Academic Initiative &amp; ISV Relations
+			</li>
+			<li>
+				Joachim Heinzl, Geschäftsführer <a href="http://www.wisto.at/">Wirtschafts Standort Vorarlberg Gesellschaft</a>
+			</li>
+			<li>
+				<a href="https://twitter.com/machineonthego">Christian Lutz</a>, CEO <a href="https://crate.io/">Crate.IO</a>
+			</li>
+			<li>
+				Moderation durch <a href="https://twitter.com/stefan_hagen">Stefan Hagen</a>, <a href="http://hgn.io">HGN.</a>.
+			</li>
+		</ul>
+		<p>
+			Wir sind schon jetzt gespannt auf die Ergebnisse.
 		</p>
 	</div>
 </div>
