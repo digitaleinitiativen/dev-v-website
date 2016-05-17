@@ -34,6 +34,16 @@
 	"logo"	= "/img/sponsors/ibm.png"
 
 [[package]]
+"name"	= "Party"
+"class" = "black"
+"rows"	= 12
+
+	[[package.sponsor]]
+	"name"	= "AdRom"
+	"url"	= "http://www.adrom.net/"
+	"logo"	= "/img/sponsors/adrom.png"
+
+[[package]]
 "name"	= "Gainsboro"
 "class"	= "gainsboro"
 "rows"	= "6"

@@ -232,4 +232,8 @@ footer a:hover {
 	background-color: gainsboro;
 	color: gainsboro;
 }
+.black {
+	background-color: black;
+	color: white;
+}
 

@@ -33,3 +33,8 @@
  "name"  = "JWV"
  "url"   = "http://www.jwv.at"
  "logo"  = "/img/partner/jwv.png"
+
+[[partner]]
+ "name"	= "go biq"
+ "url"	= "http://www.gobiq.at/"
+ "logo" = "/img/partner/gobiq.jpg"
